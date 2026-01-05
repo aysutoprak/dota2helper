@@ -20,12 +20,12 @@ export default async function HeroDetails({
 	params: { slug: string };
 }) {
 	const { slug } = await params;
-	const targetName = `${slug}`;
+	const targetName = `npc_dota_hero_${slug}`;
 
 	const res = await fetch('https://api.opendota.com/api/heroes');
 	if (!res.ok) throw new Error('Failed to fetch hero data');
 	const heroes: Hero[] = await res.json();
-	const hero = heroes.find((h) => h.localized_name === targetName);
+	const hero = heroes.find((h) => h.name === targetName);
 
 	if (!hero) {
 		return <div>Hero not found</div>;
