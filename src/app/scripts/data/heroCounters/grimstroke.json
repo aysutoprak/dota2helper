@@ -1,0 +1,31 @@
+{
+  "hero": "grimstroke",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:58.513Z",
+  "counterItems": [
+    {
+      "item": "Black King Bar",
+      "reason": "blocks all of Grimstroke's magical damage, protects against spells transferred by Soulbind, and causes Phantom's Embrace to end upon activation."
+    },
+    {
+      "item": "Manta Style",
+      "reason": "and apply invulnerability and \"dispel\" Phantom's Embrace."
+    },
+    {
+      "item": "Lotus Orb",
+      "reason": "reflects Phantom's Embrace and Soulbind back to Grimstroke. While Grimstroke Dark Portait from Aghanim's Scepter also affected potential reflect Lotus Orb."
+    },
+    {
+      "item": "Force Staff",
+      "reason": "helps allies break free from Soulbind."
+    },
+    {
+      "item": "Pipe of Insight",
+      "reason": "and its components greatly reduce Grimstroke's magical nuke damage."
+    },
+    {
+      "item": "Shadow Amulet",
+      "reason": "and any of its upgrades' invisibility can be used to neutralize Phantom's Embrace."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "hero": "lycan",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:48.093Z",
+  "counterItems": [
+    {
+      "item": "Town Portal Scroll",
+      "reason": "is rather efficient against Lycan, as he lacks disables to stop a teleporting Hero from escaping. And if he is split-pushing a lane, this might make him turn around. If not, stay alert as he might dive."
+    },
+    {
+      "item": "Heaven's Halberd",
+      "reason": "is a good counter to attacks, on which Lycan heavily relies."
+    },
+    {
+      "item": "Blade Mail",
+      "reason": "'s return damage might cause Lycan to stop attacking his victim. If not, Lycan will take loads of returned damage."
+    },
+    {
+      "item": "Ghost Scepter",
+      "reason": "and prevents the user from taking physical damage from Lycan as Lycan is mainly a physical damage dealer while also making Lycan more vulnerable to magical damage. However, Lycan can easily counter this problem by purchasing , which will give him more attack damage and a dispel to remove the ethereal buff on the hero who tries to use it to protect himself against Lycan and to remove the ethereal debuff from himself."
+    },
+    {
+      "item": "Rod of Atos",
+      "reason": "limits Lycan's mobility during his ultimate. Later it can be upgraded into that can limit mobility of both, Lycan and his wolves while also passively providing a chance to release a chain lightning that can bounce on Lycan and his wolves. However, Lycan can counter this with , a common item on Lycan."
+    },
+    {
+      "item": "Crimson Guard",
+      "reason": "reduces the damage taken from Lycan's units and drastically improves how long a tower survives his push."
+    }
+  ]
+}

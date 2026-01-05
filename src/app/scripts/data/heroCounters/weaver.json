@@ -1,0 +1,39 @@
+{
+  "hero": "weaver",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:44.692Z",
+  "counterItems": [
+    {
+      "item": "Orchid Malevolence",
+      "reason": "will prevent running away with or . It can be blocked by , however."
+    },
+    {
+      "item": "Dagon",
+      "reason": "'s high magical burst damage can be used to finish off Weaver before he can use to save himself, it also has no cast time and it can be used to pop ."
+    },
+    {
+      "item": "Abyssal Blade",
+      "reason": "and provide additional hard lockdowns against Weaver."
+    },
+    {
+      "item": "Shadow Amulet",
+      "reason": "and any of its upgrades: , and 's invisibility can be used to neutralize The Swarm beetles."
+    },
+    {
+      "item": "Gleipnir",
+      "reason": "can be used to root Weaver even when he is under effects of ."
+    },
+    {
+      "item": "Sentry Ward",
+      "reason": "in the early game will stop the advantages of Shukuchi and a in the late game is recommended against any invisible hero."
+    },
+    {
+      "item": "Vanguard",
+      "reason": "and its upgrades: and will mitigate damage taken from The Swarm."
+    },
+    {
+      "item": "Ghost Scepter",
+      "reason": "and makes the enemy immune to anything Weaver tries to throw at it's owners, and his only way of dealing magical damage is with . This forces Weaver to consider buying either to dispel ethereal state or to attack ethereal units."
+    }
+  ]
+}

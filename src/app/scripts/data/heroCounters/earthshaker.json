@@ -1,0 +1,39 @@
+{
+  "hero": "earthshaker",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:30.926Z",
+  "counterItems": [
+    {
+      "item": "Pipe of Insight",
+      "reason": "and significantly reduce Earthshaker's magical damage output."
+    },
+    {
+      "item": "Radiance",
+      "reason": "prevents Earthshaker from using ."
+    },
+    {
+      "item": "Eul's Scepter of Divinity",
+      "reason": "can waste Earthshaker's initiations with and upgraded , and to dodge all of his abilities."
+    },
+    {
+      "item": "Rod of Atos",
+      "reason": "and it's upgrade are one of Earthshaker's worst enemies. As they will prevent him from using , and upgraded ."
+    },
+    {
+      "item": "Scythe of Vyse",
+      "reason": "prevents Earthshaker from using both, abilities and items."
+    },
+    {
+      "item": "Diffusal Blade",
+      "reason": "will wear down Earthshaker's low mana pool."
+    },
+    {
+      "item": "Silver Edge",
+      "reason": "can Aftershock."
+    },
+    {
+      "item": "Dust of Appearance",
+      "reason": "can expose Earthshaker if he uses to escape."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "hero": "dark_willow",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:57.999Z",
+  "counterItems": [
+    {
+      "item": "Infused Raindrops",
+      "reason": "reduces the early game burst damage potential of Shadow Realm."
+    },
+    {
+      "item": "Town Portal Scroll",
+      "reason": "can be activated immediately after Cursed Crown is cast to teleport out before the stun hits."
+    },
+    {
+      "item": "Cloak",
+      "reason": "greatly reduces Dark Willow's magical damage."
+    },
+    {
+      "item": "Glimmer Cape",
+      "reason": "reduces Dark Willow's magical damage against the owner, and can be activated to create a shield against Dark Willow's magical damage, or evade it completely via invisibility."
+    },
+    {
+      "item": "Dragon Lance",
+      "reason": "helps ranged heroes attack over Bramble Maze."
+    },
+    {
+      "item": "Blade Mail",
+      "reason": "reflects Dark Willow's high burst damage back to her, killing her quickly due to her low health."
+    },
+    {
+      "item": "Black King Bar",
+      "reason": "completely negates most of Dark Willow's spells, protecting the caster against her disables and significantly reducing her damage output."
+    },
+    {
+      "item": "Bloodthorn",
+      "reason": "will not only silence her, but allow allies to make short work of Dark Willow's low health."
+    },
+    {
+      "item": "Helm of the Dominator",
+      "reason": "'s creep helps tank Bedlam and Bramble maze."
+    },
+    {
+      "item": "Lotus Orb",
+      "reason": "dispels Cursed Crown delay and Terrorize from your teammates. Additionally, Lotus Orb will reflect Cursed Crown back at Dark Willow."
+    }
+  ]
+}

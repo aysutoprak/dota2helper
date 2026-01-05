@@ -1,0 +1,31 @@
+{
+  "hero": "enchantress",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:43.586Z",
+  "counterItems": [
+    {
+      "item": "Blade Mail",
+      "reason": "can turn Impetus against Enchantress since she has a low HP pool."
+    },
+    {
+      "item": "Lotus Orb",
+      "reason": "reflects Enchant back at Enchantress if she impulsively tries to use it on a hero protected by it."
+    },
+    {
+      "item": "Spirit Vessel",
+      "reason": "lowers the amount of healing received by Enchantress and her allies from Nature's Attendants."
+    },
+    {
+      "item": "Moon Shard",
+      "reason": "provides a very huge amount of attack speed that can minimalize effects of ."
+    },
+    {
+      "item": "Silver Edge",
+      "reason": "breaks Untouchable for a couple of seconds. However, applying a break can be difficult on Enchantress as it requires a direct attack, and Enchantress' Untouchable can reduce attack speed greatly even before it gets disabled by an attack. The only proper solution to disable Untouchable would be to pick a hero who can apply break with abilities rather than with direct attacks."
+    },
+    {
+      "item": "Shiva's Guard",
+      "reason": "reduces the amount of healing received from Nature's Attendants. The active also slows down Enchantress."
+    }
+  ]
+}

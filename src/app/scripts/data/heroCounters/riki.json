@@ -1,0 +1,43 @@
+{
+  "hero": "riki",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:36.944Z",
+  "counterItems": [
+    {
+      "item": "Sentry Ward",
+      "reason": "Items with True Sight are always a threat:"
+    },
+    {
+      "item": "Sentry Ward",
+      "reason": "is a traditional item to counter heroes like Riki, discourage him to go alone and force an investment in detection for his own team."
+    },
+    {
+      "item": "Dust of Appearance",
+      "reason": "not only reveals Riki, but also slows his movement speed which put him in a very vulnerable state since he cannot turn off . This will force him to invest on a ."
+    },
+    {
+      "item": "Gem of True Sight",
+      "reason": "is a nightmare for Riki, heavily discouraging him to go roam in dark area or follow an enemy."
+    },
+    {
+      "item": "Book of the Dead",
+      "reason": ", an upgraded neutral item Necronomicon can also be a threat as its summons have bonus stats aside from the Necronomicon Warrior's true sight."
+    },
+    {
+      "item": "Silver Edge",
+      "reason": "nullifies , taking away half of your damage and your invisibility, making halfway useless in the process. Still if you are able to detect Riki and land the Silver Edge in the first place, you are already on a great advantage."
+    },
+    {
+      "item": "Force Staff",
+      "reason": "can push the user or their allies out of or 's area. Keep in mind that Riki's Blink Strike has 2 charges so he can instantly catch you up. Try to force into the highground, or instantly follow with other disable/escaping skills."
+    },
+    {
+      "item": "Ghost Scepter",
+      "reason": "is another great item to escape, as it prevents all physical damage from Riki and set up a safe windows to TP away."
+    },
+    {
+      "item": "Shadow Blade",
+      "reason": "can be used as a mean of escape, but Riki can easily counter it with Dust of Appearance, further securing the kill."
+    }
+  ]
+}

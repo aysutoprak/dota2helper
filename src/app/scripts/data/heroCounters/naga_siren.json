@@ -1,0 +1,43 @@
+{
+  "hero": "naga_siren",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:51.665Z",
+  "counterItems": [
+    {
+      "item": "Blade Mail",
+      "reason": "can be used when enemy heroes are by Naga Siren's Ensnare, returning all the damage she and her illusions deal to it's wielder while they are affected by Ensnare. Because Naga Siren is a hero who barely goes for , can be a huge problem for her."
+    },
+    {
+      "item": "Ghost Scepter",
+      "reason": "and it's upgrade prevents enemy heroes from taking damage from her and her illusions's attacks (although they will still take damage from her Rip Tide, if Naga Siren targets other enemy heroes near them since Rip Tide deals magical damage) while also allowing it's owner to disarm Naga Siren and make her more vulnerable to magical damage. This problem, however, can be easily countered by going playing Nuker Naga Siren. Although Nuker is not really a role Naga Siren should be playing."
+    },
+    {
+      "item": "Radiance",
+      "reason": ", , , and can clear Naga Siren illusions with their area damage. can also be used to root Naga Siren and her illusions."
+    },
+    {
+      "item": "Black King Bar",
+      "reason": "can protect enemy heroes from being affected by Naga Siren's abilities and potentially get rid of the most of the damage and crowd-control from Naga Siren. And outside from upgraded Ensnare and Reel In from , she has nothing else to counter it."
+    },
+    {
+      "item": "Force Staff",
+      "reason": "and it's upgrade can be used to move while affected by Ensnare."
+    },
+    {
+      "item": "Eul's Scepter of Divinity",
+      "reason": "and it's upgrade can be used to dispel Ensnare and to escape from Naga Siren."
+    },
+    {
+      "item": "Heaven's Halberd",
+      "reason": "can disarm Naga Siren, rendering her unable to do almost anything to enemy heroes. And the disarm cannot be dispelled neither with nor with ."
+    },
+    {
+      "item": "Linken's Sphere",
+      "reason": "can block Ensnare, and if Naga Siren cannot Ensnare an enemy hero, she will not be able to pull them toward herself with Reel In from . However, Naga can easily counter this problem either with , which is a common item on Naga Siren or with , which is a situational item on Naga Siren."
+    },
+    {
+      "item": "Lotus Orb",
+      "reason": "can make it hard for Naga Siren to root enemy heroes with Ensnare because it can reflect Ensnare back at Naga Siren and root her as well."
+    }
+  ]
+}

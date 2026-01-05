@@ -1,0 +1,47 @@
+{
+  "hero": "luna",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:40.959Z",
+  "counterItems": [
+    {
+      "item": "Glimmer Cape",
+      "reason": "Items which allow the enemy to go invisible, such as and . will also disable Moon Glaives and Lunar Blessing as an added effect. However, this problem can be partly solved with , but that will require of Luna to consume one item slot less. Luna's only proper solution to counter this problem is to buy that can be used to root multiple heroes at once in an area."
+    },
+    {
+      "item": "Black King Bar",
+      "reason": "and other forms of Spell Immunity will block Luna's magical damage output. However, they will not block Luna's high physical damage, since Luna often goes for items that give her bonus attack damage and attack speed."
+    },
+    {
+      "item": "Vanguard",
+      "reason": "and it's upgrades and can greatly reduce damage from Moon Glaives."
+    },
+    {
+      "item": "Bloodthorn",
+      "reason": "will render Luna helpless until she buys a dispelling item like , , or ."
+    },
+    {
+      "item": "Wind Waker",
+      "reason": "can be used to both, dodge Eclipse and escape from Luna, and Luna's only way to counter this is by buying ."
+    },
+    {
+      "item": "Blade Mail",
+      "reason": "can reflect Luna's damage burst against her. This problem however, can be solved by buying as damage return from cannot pierce spell immunity."
+    },
+    {
+      "item": "Heaven's Halberd",
+      "reason": "disarms Luna, negating her physical damage and lifesteal from . As Luna is a ranged hero, the disarm is slightly more effective. However, she can still dispel it with or ."
+    },
+    {
+      "item": "Pipe of Insight",
+      "reason": ", and will greatly weaken damage from Lucent Beam and Eclipse."
+    },
+    {
+      "item": "Scythe of Vyse",
+      "reason": "can slow down Luna and prevent her from both, using abilities and items. And Luna's only way to counter this is by buying ."
+    },
+    {
+      "item": "Lotus Orb",
+      "reason": "can reflect Lucent Beam back at Luna if she impulsively tries to use it on a hero affected by it."
+    }
+  ]
+}

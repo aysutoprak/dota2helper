@@ -1,0 +1,19 @@
+{
+  "hero": "snapfire",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:41:00.161Z",
+  "counterItems": [
+    {
+      "item": "Blade Mail",
+      "reason": "is easy to time against and , due to their slow and gradual damage output."
+    },
+    {
+      "item": "Black King Bar",
+      "reason": "can simply protect you against all of Snapfire's spells."
+    },
+    {
+      "item": "Diffusal Blade",
+      "reason": "reduces Snapfire's already low mana pool and the slow prevents her from escaping easily."
+    }
+  ]
+}

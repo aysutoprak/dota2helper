@@ -1,0 +1,39 @@
+{
+  "hero": "invoker",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:47.548Z",
+  "counterItems": [
+    {
+      "item": "Pipe of Insight",
+      "reason": "significantly reduces Invoker's damage output."
+    },
+    {
+      "item": "Black King Bar",
+      "reason": "prevents nearly all of Invoker's damage for its duration."
+    },
+    {
+      "item": "Eul's Scepter of Divinity",
+      "reason": "allows you to completely negate a Eul combo from Invoker, although any smart Invoker will wait for you to use your Eul first before using his combo."
+    },
+    {
+      "item": "Glimmer Cape",
+      "reason": "is a cheaper alternative to reduce Invoker's damage."
+    },
+    {
+      "item": "Blade Mail",
+      "reason": "can easily kill Invoker if he does the Chaos Meteor and Tornado combo."
+    },
+    {
+      "item": "Force Staff",
+      "reason": "can be used to save oneself and allies from Invoker's combos."
+    },
+    {
+      "item": "Diffusal Blade",
+      "reason": "can be used to burn Invoker's mana pool."
+    },
+    {
+      "item": "Lotus Orb",
+      "reason": "can reflect to Cold Snap back at Invoker."
+    }
+  ]
+}

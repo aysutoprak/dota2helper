@@ -1,0 +1,23 @@
+{
+  "hero": "doom_bringer",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:46.450Z",
+  "counterItems": [
+    {
+      "item": "Linken's Sphere",
+      "reason": "can block Doom, and Doom has nothing to pop it and put it on a cooldown. However, upgraded allows Doom to cast Doom on himself to affect enemies near him, rendering 's spellblock useless."
+    },
+    {
+      "item": "Lotus Orb",
+      "reason": "A applied at the right time can reflect Doom back onto himself. However, upgraded allows Doom to cast on himself to affect enemies near him, rendering 's spell reflection useless."
+    },
+    {
+      "item": "Glimmer Cape",
+      "reason": "A can be used to protect an ally from the magical damage from both Infernal Blade and Scorched Earth, and can potentially allow the ally to escape Doom's grasp."
+    },
+    {
+      "item": "Orchid Malevolence",
+      "reason": "is an effective means of preventing Doom from initiating and casting his abilities during a fight, which he is highly reliant on to deal damage."
+    }
+  ]
+}

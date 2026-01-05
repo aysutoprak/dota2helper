@@ -1,0 +1,31 @@
+{
+  "hero": "undying",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:50.039Z",
+  "counterItems": [
+    {
+      "item": "Manta Style",
+      "reason": "can be used to destroy the Tombstone."
+    },
+    {
+      "item": "Orchid Malevolence",
+      "reason": "works very well against a spellcaster like Undying."
+    },
+    {
+      "item": "Scythe of Vyse",
+      "reason": "cripples Undying because he relies heavily on his abilities to stay alive in a team fight."
+    },
+    {
+      "item": "Crimson Guard",
+      "reason": "makes Tombstone's zombies' damage negligible in team fights with its active."
+    },
+    {
+      "item": "Black King Bar",
+      "reason": "can be used for protection against Undying, and Undying has nothing to counter it."
+    },
+    {
+      "item": "Lotus Orb",
+      "reason": "no increase affect stealing strength from Decay."
+    }
+  ]
+}

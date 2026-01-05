@@ -1,0 +1,43 @@
+{
+  "hero": "night_stalker",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:44.143Z",
+  "counterItems": [
+    {
+      "item": "Town Portal Scroll",
+      "reason": "is an easy way to escape Night Stalker after Void is used if you can survive his followup physical attacks."
+    },
+    {
+      "item": "Manta Style",
+      "reason": "dispels Void's slow, as well as creating illusions that can waste his single-target abilities but doesn't stop you being silenced by Crippling Fear."
+    },
+    {
+      "item": "Lotus Orb",
+      "reason": "sends Void's slow back to him or removes the debuff from an ally."
+    },
+    {
+      "item": "Linken's Sphere",
+      "reason": "prevents Void's slow and damage."
+    },
+    {
+      "item": "Force Staff",
+      "reason": "brings targets out of Crippling Fear's area."
+    },
+    {
+      "item": "Ghost Scepter",
+      "reason": "or prevents Night Stalker attacking on you or an ally."
+    },
+    {
+      "item": "Eul's Scepter of Divinity",
+      "reason": "wastes Night Stalker's Crippling Fear duration."
+    },
+    {
+      "item": "Silver Edge",
+      "reason": "Hunter of the Night."
+    },
+    {
+      "item": "Black King Bar",
+      "reason": "provides spell immunity, making Crippling Fear and Void useless."
+    }
+  ]
+}

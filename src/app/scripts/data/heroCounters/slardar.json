@@ -1,0 +1,27 @@
+{
+  "hero": "slardar",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:35.995Z",
+  "counterItems": [
+    {
+      "item": "Ghost Scepter",
+      "reason": "Given that Slardar's damage output is entirely physical, there is almost nothing he can do when enemies activate ."
+    },
+    {
+      "item": "Shiva's Guard",
+      "reason": "provides armor which helps against Slardar, while the passive attack slow also prevents him from attacking as often."
+    },
+    {
+      "item": "Radiance",
+      "reason": ", , , can reduce the value of your Corrosive Haze with constant misses and can be hard for Slardar to itemize against, requiring , or both. The same applies for his allies that want to take advantage of the reduction."
+    },
+    {
+      "item": "Diffusal Blade",
+      "reason": "can be a pain to deal with until Slardar gets a ."
+    },
+    {
+      "item": "Lotus Orb",
+      "reason": "dispels and reflects Corrosive Haze back at Slardar if he tries to use it on a hero affected by it."
+    }
+  ]
+}

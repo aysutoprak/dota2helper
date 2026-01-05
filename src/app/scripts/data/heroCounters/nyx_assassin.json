@@ -1,0 +1,55 @@
+{
+  "hero": "nyx_assassin",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:51.465Z",
+  "counterItems": [
+    {
+      "item": "Gem of True Sight",
+      "reason": "Any detection items such as (, , and prevent Nyx Assassin from using Vendetta to initiate or escape."
+    },
+    {
+      "item": "Eul's Scepter of Divinity",
+      "reason": "can waste Nyx's Spiked Carapace, since its duration is shorter than the Cyclone's. Later it can be upgraded into which can do the same and which can also be used to escape from Nyx Assassin."
+    },
+    {
+      "item": "Eye of Skadi",
+      "reason": "Any good strength/health item like , or even and can completely eliminate Nyx's solo ganking as a threat."
+    },
+    {
+      "item": "Bloodthorn",
+      "reason": "and will silence Nyx Assassin, rendering him not only useless, but also defenseless and powerless as he will not be able to use neither Vendetta to escape nor Spiked Carapace to defend himself while disabled, making Nyx Assassin weak even against heroes he naturally counters."
+    },
+    {
+      "item": "Mage Slayer",
+      "reason": "allows it's owners's attacks to weaken Nyx Assassin's spell damage each time he/she attacks him."
+    },
+    {
+      "item": "Pipe of Insight",
+      "reason": "can protect multiple heroes from Nyx Assassin's spell damage."
+    },
+    {
+      "item": "Eternal Shroud",
+      "reason": "can reduce all the damage Nyx Assassin tries to inflict on it's wielder while also converting inflicted damage into mana, thus nullifying effects of Vendetta."
+    },
+    {
+      "item": "Manta Style",
+      "reason": "illusions can be used to attack Nyx Assassin when he tries to protect himself with Spiked Carapace, and make Nyx Assassin waste time attacking them."
+    },
+    {
+      "item": "Gleipnir",
+      "reason": "can be used to root Nyx Assassin and reveal him while under the effects of Vendetta, allowing it's owner to alert himself/herself and his/her allies on Nyx Assassin's attempts to gank with Vendetta."
+    },
+    {
+      "item": "Aeon Disk",
+      "reason": "can save it's wielder from getting nuked and killed by Nyx Assassin."
+    },
+    {
+      "item": "Lotus Orb",
+      "reason": "is a double-edged sword against Nyx Assassin. While Nyx Assassin can counter it in return with Spiked Carapace, he will still suffer damage if he uses his abilities and items on a hero who is affected by it."
+    },
+    {
+      "item": "Black King Bar",
+      "reason": "blocks most of Nyx Assassin's damage and greatly discourages Nyx Assassin from targeting a hero with spells or items while also allowing it's wielder to freely attack Nyx Assassin, making Nyx Assassin weak even against heroes he naturally counters. And unlike , Nyx Assassin cannot punish this in return with Spiked Carapace because Spiked Carapace cannot pierce Spell Immunity at all. And outside from Vendetta, Nyx Assassin has no other ways to deal with Spell Immunity at all."
+    }
+  ]
+}

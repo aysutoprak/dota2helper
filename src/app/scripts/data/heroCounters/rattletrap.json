@@ -1,0 +1,23 @@
+{
+  "hero": "rattletrap",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:41.901Z",
+  "counterItems": [
+    {
+      "item": "Medallion of Courage",
+      "reason": "and it's upgrade will allow enemies to quickly kill Clockwerk, making his initiation short-lived."
+    },
+    {
+      "item": "Force Staff",
+      "reason": "can push trapped enemies out of Power Cogs, and can also do this while pushing Clockwerk on the other side of the cogs."
+    },
+    {
+      "item": "Eul's Scepter of Divinity",
+      "reason": "will keep enemies safe from Clockwerk until Power Cogs go down. It's upgraded version can also allow heroes who use it to move out of Clockwerk's Power Cogs."
+    },
+    {
+      "item": "Black King Bar",
+      "reason": "can protect heroes who use it against Clockwerk's abilities, and outside of Hookshot, Clockwerk has no other ability to pierce through spell immunity."
+    }
+  ]
+}

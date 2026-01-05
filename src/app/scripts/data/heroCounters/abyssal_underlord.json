@@ -1,0 +1,51 @@
+{
+  "hero": "abyssal_underlord",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:56.092Z",
+  "counterItems": [
+    {
+      "item": "Force Staff",
+      "reason": "will push enemies out of Firestorm, Pit of Malice, and Atrophy Aura's range. It can even push Underlord's teammates away from him before Fiend's Gate's teleport goes off. Later it can be upgraded into which will allow ranged heroes who rely on direct attacks to damage Underlord without getting in range of Atrophy Aura."
+    },
+    {
+      "item": "Diffusal Blade",
+      "reason": "and it's upgrade punish Underlord for his low mana, and its active reduces his mobility further."
+    },
+    {
+      "item": "Shiva's Guard",
+      "reason": "can be used to catch Underlord's team off guard when they gather for Fiend's Gate, and can be used to deal damage if caught in his Pit of Malice while also amplifying damage Underlord will take from spells and reducing his attack speed and any heals he receives."
+    },
+    {
+      "item": "Dagon",
+      "reason": "'s high magical damage burst will not be weakened by Atrophy Aura at all."
+    },
+    {
+      "item": "Gleipnir",
+      "reason": "can be used to root Underlord and his team when they gather for Fiend's Gate."
+    },
+    {
+      "item": "Pipe of Insight",
+      "reason": ", , and will negate pretty much all of Underlord's magical damage."
+    },
+    {
+      "item": "Boots of Travel 2",
+      "reason": "can be used to defend or counter push after Underlord uses Fiend's Gate."
+    },
+    {
+      "item": "Ghost Scepter",
+      "reason": "can be a useful defense tool against Underlord if he has lots of stacks from Atrophy Aura and if he is played as Carry. Later it can be upgraded into that can be used to disarm Underlord and make him more vulnerable to magic damage while also increasing cast range, allowing it's owners to fight against Underlord without getting in range of Atrophy Aura. But bear in mind that entering ethereal state will amplify Underlord's magical damage."
+    },
+    {
+      "item": "Black King Bar",
+      "reason": "will make Underlord think twice before engaging the hero affected by it as Underlord has nothing to counter debuff immunity."
+    },
+    {
+      "item": "Silver Edge",
+      "reason": "can disable Underlord's Atrophy Aura, weakening both, his offense and defense. However, cannot be used to escape from Pit of Malice whose root can reveal invisible heroes."
+    },
+    {
+      "item": "Manta Style",
+      "reason": "can be used to dispel root from Pit of Malice. However, 's illusions can still be easily cleared with Firestorm."
+    }
+  ]
+}

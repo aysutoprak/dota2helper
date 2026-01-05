@@ -1,0 +1,23 @@
+{
+  "hero": "nevermore",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:31.860Z",
+  "counterItems": [
+    {
+      "item": "Eul's Scepter of Divinity",
+      "reason": "interrupts Requiem of Souls, or allows the user to dodge it."
+    },
+    {
+      "item": "Orchid Malevolence",
+      "reason": "and interrupt Requiem of Souls and silences Shadow Fiend."
+    },
+    {
+      "item": "Scythe of Vyse",
+      "reason": "and interrupt Requiem of Souls and disables Shadow Fiend."
+    },
+    {
+      "item": "Assault Cuirass",
+      "reason": "mitigates Presence of the Dark Lord and Shadow Fiend's high physical damage."
+    }
+  ]
+}

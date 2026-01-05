@@ -1,0 +1,39 @@
+{
+  "hero": "medusa",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:52.901Z",
+  "counterItems": [
+    {
+      "item": "Diffusal Blade",
+      "reason": ", and it's upgrade can burn away the mana Medusa needs for Mana Shield, and its active ability can slow Medusa down. These items can make Medusa weak even against heroes she naturally counters."
+    },
+    {
+      "item": "Blade Mail",
+      "reason": "activation for a disengage can discourage Medusa from using any auto attacks or Mystic Snake cast."
+    },
+    {
+      "item": "Heaven's Halberd",
+      "reason": "can disarm Medusa for a long 5 seconds, and disarm cannot be dispelled with Manta Style."
+    },
+    {
+      "item": "Abyssal Blade",
+      "reason": "repeatedly stuns Medusa with Overwhelm and Bash even if Medusa is spell immune, and her poor mobility means she cannot easily escape an Abyssal Blade user."
+    },
+    {
+      "item": "Spirit Vessel",
+      "reason": "reduces her healing and lifesteal effects, and also eats away her mana pool slowly and can sustain the effects if it has stacks."
+    },
+    {
+      "item": "Ghost Scepter",
+      "reason": "and it's upgrade can be used to defend yourself or your allies against Medusa's mostly-physical damage output. can also be used to disarm Medusa and make her more vulnerable to magical damage. And besides Mystic Snake, Medusa has no other ways of dealing magical damage."
+    },
+    {
+      "item": "Solar Crest",
+      "reason": "removes a huge chunk of armor and adds an attack speed debuff. Slows her damage output and movement in team fights allows her to get focused also weakens her durability."
+    },
+    {
+      "item": "Lotus Orb",
+      "reason": "will reflect Mystic Snake back at Medusa, damaging Medusa and stealing her mana if she uses Mystic Snake on the enemy hero protected by it."
+    }
+  ]
+}

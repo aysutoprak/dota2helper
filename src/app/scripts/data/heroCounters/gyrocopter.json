@@ -1,0 +1,27 @@
+{
+  "hero": "gyrocopter",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:47.018Z",
+  "counterItems": [
+    {
+      "item": "Blade Mail",
+      "reason": "will reflect damage from Flak Cannon, which Gyrocopter cannot avoid hitting."
+    },
+    {
+      "item": "Black King Bar",
+      "reason": "negates Gyrocopter's magic damage."
+    },
+    {
+      "item": "Crimson Guard",
+      "reason": "reduces much of the damage from Flak Cannon."
+    },
+    {
+      "item": "Assault Cuirass",
+      "reason": "reduces the amount of area damage from Flak Cannon."
+    },
+    {
+      "item": "Lotus Orb",
+      "reason": "can reflect Homming Missle back to Gyrocopter if he uses it impulsively on a hero protected by it."
+    }
+  ]
+}

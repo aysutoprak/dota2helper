@@ -1,0 +1,27 @@
+{
+  "hero": "obsidian_destroyer",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:47.916Z",
+  "counterItems": [
+    {
+      "item": "Mekansm",
+      "reason": "Instant healing items, such as , , and , can be used inside Astral Imprisonment and the healing will take effect before the damage from the prison, potentially saving the target."
+    },
+    {
+      "item": "Pipe of Insight",
+      "reason": "significantly reduces Sanity's Eclipse's damage."
+    },
+    {
+      "item": "Black King Bar",
+      "reason": "makes the user immune to all of Outworld Destroyer's spells."
+    },
+    {
+      "item": "Helm of the Dominator",
+      "reason": "When using , an 's decreases Outworld Destroyer's attack speed, making it hard for him to build charges and deal damage with Arcane Orb."
+    },
+    {
+      "item": "Lotus Orb",
+      "reason": "reflects Astral Imprisonment back to Outworld Destroyer and imprisons both heroes at once. Their intelligence won't change much as both affected heroes will lose and regain the same amount when the imprisonment ends."
+    }
+  ]
+}

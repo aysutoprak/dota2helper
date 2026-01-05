@@ -1,0 +1,15 @@
+{
+  "hero": "lone_druid",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:48.812Z",
+  "counterItems": [
+    {
+      "item": "Ghost Scepter",
+      "reason": "protects from Lone Druid's and his bear's attacks while he has no dispels or magic damage."
+    },
+    {
+      "item": "Heaven's Halberd",
+      "reason": "prevent the spirit bear from attacking, reducing Lone Druid's main damage output for a decent time."
+    }
+  ]
+}

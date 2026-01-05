@@ -1,0 +1,35 @@
+{
+  "hero": "warlock",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:38.601Z",
+  "counterItems": [
+    {
+      "item": "Boots of Bearing",
+      "reason": "makes allies in a large area ignore Upheaval's slow for a brief period, allowing them to escape from it."
+    },
+    {
+      "item": "Orchid Malevolence",
+      "reason": "silences Warlock, which is bad for him as he needs to use abilities to be impactful."
+    },
+    {
+      "item": "Diffusal Blade",
+      "reason": "removes mana from Warlock with each attack. Considering the high mana costs of his abilities, it could leave him with no mana for casting them."
+    },
+    {
+      "item": "Eul's Scepter of Divinity",
+      "reason": "can stop Warlock from casting Upheaval or interrupt it, which can then allow the carrier's team to escape or get close to deal damage."
+    },
+    {
+      "item": "Blink Dagger",
+      "reason": "allows the carrier to escape from Upheaval or get close to Warlock to disrupt it, and perhaps kill him as he has no escape abilities."
+    },
+    {
+      "item": "Lotus Orb",
+      "reason": "reflects Fatal Bonds and Shadow Word back at Warlock if he impulsively uses them on a hero affected by it."
+    },
+    {
+      "item": "Talent",
+      "reason": "It should be noted though that Shadow Word can be upgraded with the so that it is no longer affected by ."
+    }
+  ]
+}

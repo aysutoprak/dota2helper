@@ -1,0 +1,27 @@
+{
+  "hero": "troll_warlord",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:53.075Z",
+  "counterItems": [
+    {
+      "item": "Blade Mail",
+      "reason": "is especially effective against Troll Warlord, due to Troll Warlord's high physical damage and low health pool."
+    },
+    {
+      "item": "Silver Edge",
+      "reason": "can break Troll Warlord's Fervor and passive root, mitigating most of Troll Warlord's threat."
+    },
+    {
+      "item": "Heaven's Halberd",
+      "reason": "disarms Troll Warlord, negating all of his attack damage and root. Heaven's Halberd is especially effective if Troll Warlord is in ranged form, due to the increased duration of the disarm."
+    },
+    {
+      "item": "Bloodthorn",
+      "reason": "can be effective against Troll Warlord, as all attacks on the Bloodthorn silenced target will have True Strike."
+    },
+    {
+      "item": "Scythe of Vyse",
+      "reason": "can be useful both offensively and defensively - disabling and preventing him from either killing or running away."
+    }
+  ]
+}

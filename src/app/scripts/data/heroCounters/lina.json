@@ -1,0 +1,35 @@
+{
+  "hero": "lina",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:35.181Z",
+  "counterItems": [
+    {
+      "item": "Infused Raindrops",
+      "reason": "can keep it's owner alive against Lina's magic burst damage in the early game."
+    },
+    {
+      "item": "Black King Bar",
+      "reason": "prevents Lina from using her abilities to kill enemy heroes. And Lina's only way to counter it is by playing Carry role."
+    },
+    {
+      "item": "Eul's Scepter of Divinity",
+      "reason": "can be used to dodge Lina's abilities. However, an ill-timed use of it can make it's owner an easy target for Light Strike Array."
+    },
+    {
+      "item": "Blade Mail",
+      "reason": "can be used to reflect Lina's burst damage back to her."
+    },
+    {
+      "item": "Eternal Shroud",
+      "reason": ", , and will greatly weaken Lina's mostly magical damage output."
+    },
+    {
+      "item": "Linken's Sphere",
+      "reason": "will block Laguna Blade. And Lina's only way to pop it is by using an disable from an item to put it on a cooldown."
+    },
+    {
+      "item": "Lotus Orb",
+      "reason": "will reflect Laguna Blade back at Lina if she impulsively tries to use it on a hero affected by it."
+    }
+  ]
+}

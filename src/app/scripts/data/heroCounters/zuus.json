@@ -1,0 +1,59 @@
+{
+  "hero": "zuus",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:34.820Z",
+  "counterItems": [
+    {
+      "item": "Magic Stick",
+      "reason": "Arc Lightning and Lightning Bolt have very low cooldowns, which will provide plenty of charges for or ."
+    },
+    {
+      "item": "Cloak",
+      "reason": "The magic resistance from , as well as it's upgrades, and , will greatly reduce the effectiveness of Zeus's abilities since they are all magical. Notice that these items have separate cooldowns and stack their magic resistance bonuses, so don't hesitate to buy a Pipe and another Hood on top if one of them is not enough. Also more than one person buying a Pipe is sometimes useful, keep in mind though that the actives don't stack."
+    },
+    {
+      "item": "Glimmer Cape",
+      "reason": "works as well, but keep in mind that Zeus can easily reveal you out of invisibility with Lightning Bolt and Thundergod's wrath. However, it enables the wearer to avoid Thundergod's Wrath's damage."
+    },
+    {
+      "item": "Black King Bar",
+      "reason": "is Zeus' worst enemy."
+    },
+    {
+      "item": "Black King Bar",
+      "reason": "Over time, 's duration is reduced allowing Zeus to cast his spells earlier."
+    },
+    {
+      "item": "Orchid Malevolence",
+      "reason": "silences and amplifies the damage Zeus takes, hitting him right in his weak spots (being very dependent on spells and being a very fragile Hero)."
+    },
+    {
+      "item": "Bloodthorn",
+      "reason": "The enemy may also be able to build a which not only silences Zeus but also takes advantage of his low armor by dealing critical damage."
+    },
+    {
+      "item": "Blade Mail",
+      "reason": "will return the damage Zeus deals. At the start of a fight, the percentage-based damage of Static Field can be especially harmful to Zeus."
+    },
+    {
+      "item": "Diffusal Blade",
+      "reason": "As an intelligence hero with a big mana pool and low armor, deals a lot of damage against him. The slow also heavily cripples his already low movement speed."
+    },
+    {
+      "item": "Invulnerability",
+      "reason": "Any invisibility item or skill negates Thundergod's Wrath damage. works as well."
+    },
+    {
+      "item": "Smoke of Deceit",
+      "reason": "A special mention should go to , since it will immediately hide you and your nearby allies from Zeus' ultimate, potentially saving your lives for a small 50 gold cost."
+    },
+    {
+      "item": "Heart of Tarrasque",
+      "reason": "makes it very hard to deal serious damage with magical nukes only."
+    },
+    {
+      "item": "Lotus Orb",
+      "reason": "Lightning Bolt is so useless since enemy build item . With , Zeus can't move slightly with Ligtning Bolt spamming abilities."
+    }
+  ]
+}

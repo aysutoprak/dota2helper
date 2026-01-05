@@ -1,0 +1,51 @@
+{
+  "hero": "skeleton_king",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:39.620Z",
+  "counterItems": [
+    {
+      "item": "Diffusal Blade",
+      "reason": "can burn Wraith King's mana quickly, preventing him from Reincarnating, until Wraith King picks up Aghanim's Shard."
+    },
+    {
+      "item": "Manta Style",
+      "reason": "and are a problem to Wraith King due to his single-target abilities and lack of mobility."
+    },
+    {
+      "item": "Book of the Dead",
+      "reason": "summons can burn Wraith King's mana as well, preventing him from Reincarnating."
+    },
+    {
+      "item": "Scythe of Vyse",
+      "reason": "disables Wraith King for a good 3 seconds for him to get focus fired when defending."
+    },
+    {
+      "item": "Spirit Vessel",
+      "reason": "reduces the effectiveness of his self sustaining lifesteal making it harder for him to tank area damage."
+    },
+    {
+      "item": "Eye of Skadi",
+      "reason": "keeps him distant when acquired by a ranged capable hero and reduces his lifesteal abilities."
+    },
+    {
+      "item": "Battle Fury",
+      "reason": "and deal area damage to wipe out skeletons."
+    },
+    {
+      "item": "Heaven's Halberd",
+      "reason": "allows the user to dodge and disarm Wraith King's physical attacks when he commits to a chase."
+    },
+    {
+      "item": "Ghost Scepter",
+      "reason": "defends against Wraith King's physical attacks but not entirely safe from magical damage Wraithfire Blasts. It must be used as a counter attack instead of last resort."
+    },
+    {
+      "item": "Lotus Orb",
+      "reason": "reflects Wraithfire Blast back to Wraith King."
+    },
+    {
+      "item": "Shiva's Guard",
+      "reason": "reduces Wraith King's lifesteal capabilities while also slowing him down."
+    }
+  ]
+}

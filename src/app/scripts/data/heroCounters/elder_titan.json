@@ -1,0 +1,59 @@
+{
+  "hero": "elder_titan",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:54.919Z",
+  "counterItems": [
+    {
+      "item": "Aeon Disk",
+      "reason": "can nullify your combo's damage and make the targets hard to finish off."
+    },
+    {
+      "item": "Scythe of Vyse",
+      "reason": "Items with instant stuns, disables or silences allow you to cancel the Echo Stomp:"
+    },
+    {
+      "item": "Scythe of Vyse",
+      "reason": null
+    },
+    {
+      "item": "Abyssal Blade",
+      "reason": null
+    },
+    {
+      "item": "Eul's Scepter of Divinity",
+      "reason": null
+    },
+    {
+      "item": "Orchid Malevolence",
+      "reason": "(and )"
+    },
+    {
+      "item": "Blink Dagger",
+      "reason": "Mobility Items allow you to escape from the Echo Stomp or Earth Splitter radius:"
+    },
+    {
+      "item": "Blink Dagger",
+      "reason": null
+    },
+    {
+      "item": "Force Staff",
+      "reason": "(and )"
+    },
+    {
+      "item": "Medallion of Courage",
+      "reason": "Items that give raw armor to you and your teammates:"
+    },
+    {
+      "item": "Medallion of Courage",
+      "reason": "(and )"
+    },
+    {
+      "item": "Assault Cuirass",
+      "reason": null
+    },
+    {
+      "item": "Shiva's Guard",
+      "reason": null
+    }
+  ]
+}

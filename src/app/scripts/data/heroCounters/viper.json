@@ -1,0 +1,47 @@
+{
+  "hero": "viper",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:40.756Z",
+  "counterItems": [
+    {
+      "item": "Town Portal Scroll",
+      "reason": "allows heroes to escape from Viper, as he cannot interrupt it nor kill a healthy hero before they teleport."
+    },
+    {
+      "item": "Black King Bar",
+      "reason": "nullifies most of Viper's arsenal as most of his damage comes from his damage-over-time abilities."
+    },
+    {
+      "item": "Ghost Scepter",
+      "reason": "can protect against Viper's attacks. And when upgraded into , it can reduce his magic resistance that provides him while also disarming him, rendering him unable to use and increasing cast range, which allows it's owners to fight against Viper without getting into range of ."
+    },
+    {
+      "item": "Glimmer Cape",
+      "reason": "'s invisibility prevents Viper from attacking the target, and the magic resistance counteracts Viper's damage over time."
+    },
+    {
+      "item": "Force Staff",
+      "reason": "can allow a hero to escape while slowed by Viper, or to close the gap on Viper while he is on the run. Later it can be upgraded into that can do the same while also increasing attack range, which allows it's owners to fight against Viper without getting into range of ."
+    },
+    {
+      "item": "Silver Edge",
+      "reason": "'s break disables Corrosive Skin, making him weaker even against the heroes he naturally counters."
+    },
+    {
+      "item": "Manta Style",
+      "reason": "can disjoint Viper Strike and can make Viper waste time attacking illusions."
+    },
+    {
+      "item": "Diffusal Blade",
+      "reason": "can slow Viper with its active ability and pin him down while burning his mana."
+    },
+    {
+      "item": "Linken's Sphere",
+      "reason": "blocks Viper Strike, and Viper has no other ways to break the Spell Block. In addition, Viper hates buying disabling items."
+    },
+    {
+      "item": "Lotus Orb",
+      "reason": "will reflect Viper Strike back at Viper, discouraging him from using it himself. It will also dispels most of Viper's debuffs."
+    }
+  ]
+}

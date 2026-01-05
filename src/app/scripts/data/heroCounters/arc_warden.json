@@ -1,0 +1,23 @@
+{
+  "hero": "arc_warden",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:57.640Z",
+  "counterItems": [
+    {
+      "item": "Black King Bar",
+      "reason": "negates Arc Warden's mostly magical damage and it also prevents him from using items on it's owners."
+    },
+    {
+      "item": "Lotus Orb",
+      "reason": "can reflect Flux back at Arc Warden and will usually reflect most of Arc Warden's frequently built items back onto him."
+    },
+    {
+      "item": "Monkey King Bar",
+      "reason": ", and allow enemies to attack Arc Warden through Magnetic Field."
+    },
+    {
+      "item": "Manta Style",
+      "reason": "can dispel Flux, frequently bought and makes Spark Wraith much less effective."
+    }
+  ]
+}

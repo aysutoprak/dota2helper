@@ -1,0 +1,35 @@
+{
+  "hero": "sand_king",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:33.167Z",
+  "counterItems": [
+    {
+      "item": "Black King Bar",
+      "reason": "ignores all Sand King's abilities."
+    },
+    {
+      "item": "Dust of Appearance",
+      "reason": ", and s will reveal Sand King through Sand Storm."
+    },
+    {
+      "item": "Orchid Malevolence",
+      "reason": ", preventing Sand King from casting spells. It might as well cancel Epicenter channeling and waste its mana and putting it on cooldown without applying its effects."
+    },
+    {
+      "item": "Linken's Sphere",
+      "reason": "can block Burrowstrike, Sand King's only inherent disable."
+    },
+    {
+      "item": "Silver Edge",
+      "reason": "will disable Sand King's Caustic Finale, weakening his damage output and waveclear."
+    },
+    {
+      "item": "Lotus Orb",
+      "reason": "will reflect Sand King's Burrowstrike, making it difficult for Sand King to use it against a hero who is affected by it."
+    },
+    {
+      "item": "Blade Mail",
+      "reason": "will reflect Sand King's Epicenter, which could result in possibly killing Sand King unless Sand King is debuff immune."
+    }
+  ]
+}

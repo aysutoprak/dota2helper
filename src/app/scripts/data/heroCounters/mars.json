@@ -1,0 +1,19 @@
+{
+  "hero": "mars",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:41:00.519Z",
+  "counterItems": [
+    {
+      "item": "Silver Edge",
+      "reason": "Bulwark."
+    },
+    {
+      "item": "Black King Bar",
+      "reason": "allows heroes to walk freely in and out of Arena Of Blood."
+    },
+    {
+      "item": "Glimmer Cape",
+      "reason": "can be used to save an ally from Arena of Blood."
+    }
+  ]
+}

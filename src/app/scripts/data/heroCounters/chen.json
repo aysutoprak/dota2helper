@@ -1,0 +1,75 @@
+{
+  "hero": "chen",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:45.494Z",
+  "counterItems": [
+    {
+      "item": "Shiva's Guard",
+      "reason": "will greatly hinder the converted creeps's damage output, while the slow from Arctic Blast will make Chen and his creeps easy targets. will also reduce healing from and ."
+    },
+    {
+      "item": "Dagon",
+      "reason": "'s magical burst damage can quickly finish off Chen's teammates before he is able to use Hand of God. Especially when combined with and ."
+    },
+    {
+      "item": "Battle Fury",
+      "reason": "allows melee heroes to destroy converted creeps."
+    },
+    {
+      "item": "Maelstrom",
+      "reason": ", and allows both, melee and ranged heroes to easily destroy Chen's converted creeps, making Chen weak even against heroes he naturally counters. can also root Chen and his creeps, preventing them from escaping."
+    },
+    {
+      "item": "Hand of Midas",
+      "reason": "instantly kills converted creeps, and grants farm in process."
+    },
+    {
+      "item": "Black King Bar",
+      "reason": "blocks the abilities of both Chen and his creeps."
+    },
+    {
+      "item": "Manta Style",
+      "reason": "can dispel Penitence and make Chen waste abilities on illusions. Additionally, illusions from can often kill Chen and his creeps than the other way around."
+    },
+    {
+      "item": "Butterfly",
+      "reason": "and can give bonus evasion against Penitence, wasting much of it's power. can also be used to disarm Chen."
+    },
+    {
+      "item": "Shadow Blade",
+      "reason": "allows heroes to bypass Chen's creeps and pick him off. can later be upgraded into which can disable Divine Favor if it's attack hits Chen."
+    },
+    {
+      "item": "Helm of the Dominator",
+      "reason": "and can take control of Chen's converted creeps."
+    },
+    {
+      "item": "Radiance",
+      "reason": "can deal area damage to all of Chen's converted creeps while making Chen and his creeps frequently miss their attacks."
+    },
+    {
+      "item": "Spirit Vessel",
+      "reason": "can provide an AOE healing reduction, effectively reducing the healing from Divine Favor and Hand of God."
+    },
+    {
+      "item": "Blink Dagger",
+      "reason": "and it's upgrades: , and allows heroes to jump on Chen for quick kill."
+    },
+    {
+      "item": "Orchid Malevolence",
+      "reason": ", it's upgrade and will render Chen absolutely powerless if he is not protected by any form of Spell Immunity."
+    },
+    {
+      "item": "Eye of Skadi",
+      "reason": "will reduce healing from and every time Chen is attacked by hero who owns it while also completely eliminating Chen's solo ganking as a threat."
+    },
+    {
+      "item": "Linken's Sphere",
+      "reason": "will block . And Chen has no way to put it on a cooldown."
+    },
+    {
+      "item": "Lotus Orb",
+      "reason": "will reflect back at Chen, slowing him while allowing enemy heroes to attack him faster, discouraging him from even trying to use it."
+    }
+  ]
+}

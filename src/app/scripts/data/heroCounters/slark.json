@@ -1,0 +1,39 @@
+{
+  "hero": "slark",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:52.734Z",
+  "counterItems": [
+    {
+      "item": "Force Staff",
+      "reason": ", , and allow users to break Pounce's ."
+    },
+    {
+      "item": "Black King Bar",
+      "reason": "nullifies Slark's nuke damage from Dark Pact and destroys the leash from Pounce."
+    },
+    {
+      "item": "Abyssal Blade",
+      "reason": "locks down Slark so he cannot escape to regenerate his health."
+    },
+    {
+      "item": "Heaven's Halberd",
+      "reason": "'s cannot be dispelled by Dark Pact, while the evasion may force Slark to build ."
+    },
+    {
+      "item": "Shiva's Guard",
+      "reason": "gives the holder much more physical survivability and a useful active ability which will halt Slark during Shadow Dance."
+    },
+    {
+      "item": "Ghost Scepter",
+      "reason": "prevents Slark from attacking the holder, wasting his Pounce."
+    },
+    {
+      "item": "Silver Edge",
+      "reason": "'s disables Essence Shift and cannot be removed with Dark Pact."
+    },
+    {
+      "item": "Scythe of Vyse",
+      "reason": "'s fully disables Slark, but the hex can be dispelled with Dark Pact."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "hero": "bounty_hunter",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:44.513Z",
+  "counterItems": [
+    {
+      "item": "Dust of Appearance",
+      "reason": "is the typical counter against Bounty Hunter's Shadow Walk. Early game, this item can easily guarantee a kill on Bounty Hunter if he is invisible as he may not have a means of removing his invisibility safely (thus receiving the 20% movement slow)."
+    },
+    {
+      "item": "Sentry Ward",
+      "reason": "s can act as repellent if he knows of their place or as a trap if he doesn't."
+    },
+    {
+      "item": "Gem of True Sight",
+      "reason": "is a powerful deterrent against his roaming."
+    },
+    {
+      "item": "Guardian Greaves",
+      "reason": ", , , and are good for removing Track, in addition to their other useful effects."
+    }
+  ]
+}

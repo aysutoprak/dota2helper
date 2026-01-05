@@ -1,0 +1,39 @@
+{
+  "hero": "techies",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:55.500Z",
+  "counterItems": [
+    {
+      "item": "Infused Raindrops",
+      "reason": "can help in the early game against Techies' magical damage."
+    },
+    {
+      "item": "Black King Bar",
+      "reason": "is useful in avoiding a Blast Off combo and killing Techies without getting disarmed."
+    },
+    {
+      "item": "Orchid Malevolence",
+      "reason": "/ or are useful in disrupting Techies' Blast Off combo while you are silenced."
+    },
+    {
+      "item": "Hood of Defiance",
+      "reason": ", and significantly reduce the damage caused by Techies' abilities."
+    },
+    {
+      "item": "Helm of the Dominator",
+      "reason": "can creeps and send them to defuse bombs or use them as living wards."
+    },
+    {
+      "item": "Aeon Disk",
+      "reason": "passively prevents a Blast Off combo."
+    },
+    {
+      "item": "Eul's Scepter of Divinity",
+      "reason": "and can waste Blast Off, putting it on cooldown if you use it on Techies while they are airborne."
+    },
+    {
+      "item": "Manta Style",
+      "reason": "dispels the silence from Blast Off, potentially breaking the combo after the stun wears off."
+    }
+  ]
+}

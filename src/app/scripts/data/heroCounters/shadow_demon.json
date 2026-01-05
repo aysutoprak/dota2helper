@@ -1,0 +1,23 @@
+{
+  "hero": "shadow_demon",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:48.635Z",
+  "counterItems": [
+    {
+      "item": "Lotus Orb",
+      "reason": "will reflect Disruption and Demonic Purge back to Shadow Demon. Additionally, illusions of Shadow Demon created by the reflected Disruption will spawn under the control of the enemy hero who reflected it."
+    },
+    {
+      "item": "Linken's Sphere",
+      "reason": "blocks Disruption and Demonic Purge."
+    },
+    {
+      "item": "Force Staff",
+      "reason": "can save the victim if they are able to force through a cliff, to the high ground or create enough distance to retreat into a foggy area."
+    },
+    {
+      "item": "Town Portal Scroll",
+      "reason": "can help the victim survive a gank attempt from Shadow Demon if he initiates with a Disruption and has no way to cancel the teleport afterward, while Shadow Poison needs time to stack up and Demonic Purge only deals damage after a lengthy delay."
+    }
+  ]
+}

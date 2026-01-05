@@ -1,0 +1,47 @@
+{
+  "hero": "drow_ranger",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:30.577Z",
+  "counterItems": [
+    {
+      "item": "Black King Bar",
+      "reason": "Any dispeling item like , , , , , , , , and will render Drow Ranger's Gust insignificant."
+    },
+    {
+      "item": "Blink Dagger",
+      "reason": "and it's upgrades: , , allows for heroes to close the gap on Drow Ranger and cancel her Marksmanship."
+    },
+    {
+      "item": "Blade Mail",
+      "reason": "punishes Drow Ranger's high attack damage and attack speed by returning her damage back to her."
+    },
+    {
+      "item": "Black King Bar",
+      "reason": "can dispel silence from Gust and prevent the slow from Frost Arrows."
+    },
+    {
+      "item": "Heaven's Halberd",
+      "reason": "can Drow Ranger, shutting off her only damage source. And the disarm cannot be dispelled with ."
+    },
+    {
+      "item": "Manta Style",
+      "reason": "can be used to dispel the silence from Gust and make Drow Ranger waste time attacking illusions spawned by it."
+    },
+    {
+      "item": "Eul's Scepter of Divinity",
+      "reason": "can be used dispel the silence from Gust. Later it can be upgraded into that can do the same and which can be used to escape from Drow Ranger. And to make thing worse, Drow Ranger is not a common wielder to counter this problem at all."
+    },
+    {
+      "item": "Rod of Atos",
+      "reason": "'s large cast range for it's active root will make gap-closing on Drow Ranger a lot easier. can later be upgraded into that can also root Drow Ranger and her illusions from ."
+    },
+    {
+      "item": "Shadow Blade",
+      "reason": "allows it's owner to easily ambush Drow Ranger from close range. Its upgrade, , can also Marksmanship, weakening both, Drow Ranger's attack damage and agility, which can make her weak even against heroes she naturally counters. However, it is not advised to use it for escaping from Drow Ranger because Gust will reveal invisible heroes if they are hit by it."
+    },
+    {
+      "item": "Ghost Scepter",
+      "reason": "can protect it's owner from Drow Ranger's 100% physical damage output, and Drow Ranger has no way of dealing magical damage at all. can later be upgraded into that can also protect it's owner's allies and disarm Drow Ranger, rendering her unable to attack and making her more vulnerable to magical damage. In addition, Drow Ranger does not like to buy items that deal magical damage like , , , , , , , , , and . And to make thing worse, Drow Ranger is not a common wielder to counter this problem at all."
+    }
+  ]
+}

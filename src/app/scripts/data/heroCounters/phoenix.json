@@ -1,0 +1,31 @@
+{
+  "hero": "phoenix",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:56.835Z",
+  "counterItems": [
+    {
+      "item": "Black King Bar",
+      "reason": ", as mentioned, will nullify Phoenix against its spell immune wielder."
+    },
+    {
+      "item": "Orchid Malevolence",
+      "reason": "and , as mentioned earlier with silences, will prevent Phoenix from escaping or retaliating, but will also make it more vulnerable to damage thanks to its damage amplification."
+    },
+    {
+      "item": "Scythe of Vyse",
+      "reason": "is a more dangerous version of the formerly mentioned items. Not only does its active, Hex, silence abilities, but it will also mute items, preventing Phoenix from dispelling it if it has or ."
+    },
+    {
+      "item": "Moon Shard",
+      "reason": "can turn any hero into a severe threat as its granted high attack speed can spell the end for a misplaced ."
+    },
+    {
+      "item": "Echo Sabre",
+      "reason": "Similar in nature, can be an early game threat to the Phoenix Sun, especially if it is only level 1, as it takes only 5 hits to kill the Sun."
+    },
+    {
+      "item": "Pipe of Insight",
+      "reason": "will make a whole enemy team more resilient against Phoenix's DPS."
+    }
+  ]
+}

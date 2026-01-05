@@ -1,0 +1,27 @@
+{
+  "hero": "witch_doctor",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:36.371Z",
+  "counterItems": [
+    {
+      "item": "Black King Bar",
+      "reason": "protects against Paralyzing Cask's stun and Maledict's damage."
+    },
+    {
+      "item": "Linken's Sphere",
+      "reason": "blocks Paralyzing Cask on impact."
+    },
+    {
+      "item": "Lotus Orb",
+      "reason": "reflects Paralyzing Cask back at Witch Doctor."
+    },
+    {
+      "item": "Eul's Scepter of Divinity",
+      "reason": "is able to cancel the channeling of Death Ward. It can also be used to dodge Paralyzing Cask."
+    },
+    {
+      "item": "Witch Doctor",
+      "reason": "Armor items/abilities are best for mitigating damage from . Damage Block from items/abilities such as DO NOT reduce Death Ward damage however, and evasion is ineffective due to Death Ward's inherant bonus accuracy."
+    }
+  ]
+}

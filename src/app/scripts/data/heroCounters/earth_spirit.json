@@ -1,0 +1,19 @@
+{
+  "hero": "earth_spirit",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:55.862Z",
+  "counterItems": [
+    {
+      "item": "Black King Bar",
+      "reason": "blocks all of Earth Spirit's abilities."
+    },
+    {
+      "item": "Pipe of Insight",
+      "reason": "greatly reduces magical damage in a big area, making it hard for Earth Spirit to deal significant damage."
+    },
+    {
+      "item": "Dispel",
+      "reason": "Items that can debuffs: , , ,"
+    }
+  ]
+}

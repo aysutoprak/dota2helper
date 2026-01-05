@@ -1,0 +1,31 @@
+{
+  "hero": "winter_wyvern",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:57.339Z",
+  "counterItems": [
+    {
+      "item": "Dagon",
+      "reason": "Items that deal magical damage like , , , , , , , , and will damage through Cold Embrace, especially when amplified with ."
+    },
+    {
+      "item": "Ethereal Blade",
+      "reason": "can be cast on ally under Winter's Curse effect wasting most of its duration."
+    },
+    {
+      "item": "Linken's Sphere",
+      "reason": "will easily block any attempt to initiate with a Winter's Curse."
+    },
+    {
+      "item": "Revenant's Brooch",
+      "reason": "will allow heroes reliant on basic attacks to have their next five attacks deal magical damage, and thus, ignore Cold Embrace's protection, making Winter Wyvern weak even against heroes she naturally counters."
+    },
+    {
+      "item": "Black King Bar",
+      "reason": "will cause it's wielder immune to be taunted by Winter's Curse unless if they are targeted directly by the spell, which may be useful to lock down key carries for a few critical seconds (e.g. a that has just activated his ultimate and Black King Bar and is about to wreak havoc on your team). Additionally, Arctic Burn's and Splinter Blast's debuffs will not work."
+    },
+    {
+      "item": "Lotus Orb",
+      "reason": "will render Winter's Curse very useless when activated since Winter Wyvern relies on taunting enemies heroes with Winter's Curse, reflecting it back at Winter Wyvern and ruining her ganking attempts with it."
+    }
+  ]
+}

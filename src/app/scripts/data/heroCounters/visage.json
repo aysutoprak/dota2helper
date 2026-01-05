@@ -1,0 +1,31 @@
+{
+  "hero": "visage",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:52.561Z",
+  "counterItems": [
+    {
+      "item": "Armor",
+      "reason": "Items providing , like or , can protect enemies from a lot of Visage's damage. The only solution is through armor reduction like that of ."
+    },
+    {
+      "item": "Evasion",
+      "reason": "Items providing , like or , can also protect enemies from a lot of Visage's damage. Visage's only solution to counter this issue is to get a ; will not help the Familiars."
+    },
+    {
+      "item": "Black King Bar",
+      "reason": "will protect it's owner from Grave Chill, Soul Assumption, and Stone Form, thus getting rid of some of Visage's potential damage and all of his crowd control."
+    },
+    {
+      "item": "Vanguard",
+      "reason": "and will significantly drop familiar damage output."
+    },
+    {
+      "item": "Radiance",
+      "reason": "will make quick work of Visages' Gravekeeper's Cloak."
+    },
+    {
+      "item": "Lotus Orb",
+      "reason": "will reflect both, Grave Chill and Soul Assumption back at Visage if he uses them on the hero affected by it."
+    }
+  ]
+}

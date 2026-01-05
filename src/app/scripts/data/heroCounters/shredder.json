@@ -1,0 +1,31 @@
+{
+  "hero": "shredder",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:53.807Z",
+  "counterItems": [
+    {
+      "item": "Spirit Vessel",
+      "reason": "reduces the amount of healing Timbersaw receives from Reactive Armor."
+    },
+    {
+      "item": "Orchid Malevolence",
+      "reason": "'s silence negates Timbersaw's mobility and damage. This can also be upgraded into a to help punch through his high armor."
+    },
+    {
+      "item": "Black King Bar",
+      "reason": "is a good pickup for carries, as none of his abilities damages through ."
+    },
+    {
+      "item": "Scythe of Vyse",
+      "reason": "is an effective way of silencing Timbersaw, as its cast time is instantaneous and difficult to be reacted against."
+    },
+    {
+      "item": "Diffusal Blade",
+      "reason": "drains Timbersaw's mana, negating nearly all of his strengths by removing his abilities."
+    },
+    {
+      "item": "Silver Edge",
+      "reason": "Reactive Armor's passive bonuses, preventing Timbersaw from building up stacks. Note that this will not remove any stacks that he has already obtained."
+    }
+  ]
+}

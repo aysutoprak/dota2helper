@@ -1,0 +1,35 @@
+{
+  "hero": "silencer",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:47.741Z",
+  "counterItems": [
+    {
+      "item": "Manta Style",
+      "reason": "dispels most of Silencer's debuffs when used."
+    },
+    {
+      "item": "Guardian Greaves",
+      "reason": "dispels all Silencer's debuffs and restores lost health and mana."
+    },
+    {
+      "item": "Black King Bar",
+      "reason": "removes all Silencer's debuffs upon activation and prevents damage from Glaives of Wisdom."
+    },
+    {
+      "item": "Eul's Scepter of Divinity",
+      "reason": "can be used to disable Silencer for a moment or dispel Silencer's debuffs from you. It also gives nice movement speed and mana regen boosts, which can come in handy."
+    },
+    {
+      "item": "Lotus Orb",
+      "reason": "removes all Silencer's debuffs from the targeted ally. Echo Shell can also reflect Last Word back to Silencer, preventing him from casting or using Glaives of Wisdom."
+    },
+    {
+      "item": "Orchid Malevolence",
+      "reason": "and can silence Silencer, preventing him from casting Global Silence when needed or using Glaives of Wisdom. It also increases the damage Silencer takes from attacks making him easier to kill. With Global Silence out of the way, a fight will be much more in your team's favor."
+    },
+    {
+      "item": "Blade Mail",
+      "reason": "If Silencer has a lot of intelligence, Glaives of Wisdom will deal lots of damage. Silencer himself, however, is rather squishy and will often lose more than half of his health with just a few attacks if he attacks target with Blade Mail. Blade Mail is good especially on high hp heroes like , or ."
+    }
+  ]
+}

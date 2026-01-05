@@ -1,0 +1,27 @@
+{
+  "hero": "spectre",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:45.905Z",
+  "counterItems": [
+    {
+      "item": "Scythe of Vyse",
+      "reason": "will completely disable Spectre, and she rarely builds a to prevent this."
+    },
+    {
+      "item": "Battle Fury",
+      "reason": "will deal AoE damage and allow Spectre to be identified from her illusions."
+    },
+    {
+      "item": "Mjollnir",
+      "reason": "'s active ability can deal a lot of damage to Spectre during a team fight, as damage from both and will drastically increase the proc chance of Static Charge."
+    },
+    {
+      "item": "Silver Edge",
+      "reason": "can both and , crippling Spectre."
+    },
+    {
+      "item": "Crimson Guard",
+      "reason": "blocks most of physical damage from ."
+    }
+  ]
+}

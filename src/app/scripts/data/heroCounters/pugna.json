@@ -1,0 +1,47 @@
+{
+  "hero": "pugna",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:40.362Z",
+  "counterItems": [
+    {
+      "item": "Force Staff",
+      "reason": "allows for someone to quickly escape a Life Drain for a very small mana cost. With quick fingers, Force Staff can also be used to dodge Nether Blast."
+    },
+    {
+      "item": "Glimmer Cape",
+      "reason": "and both reduces Pugna's damage output considerably."
+    },
+    {
+      "item": "Black King Bar",
+      "reason": "will render Pugna unable to do anything, and Pugna's only tool against is a defensively-used Decrepify."
+    },
+    {
+      "item": "Blink Dagger",
+      "reason": "is great versus Pugna as he hates being jumped on because of his extremely fragile nature."
+    },
+    {
+      "item": "Linken's Sphere",
+      "reason": "can block Life Drain and Decrepify. However, Pugna's Life Drain has a very low cooldown, which allows him to easily waste 's spellblock, and render it's owner vulnerable to other single-targeted abilities. Also, will not trigger when the Life Drain cast is refracted by upgraded Nether Ward."
+    },
+    {
+      "item": "Lotus Orb",
+      "reason": "can be used to reflect Life Drain and Decrepify."
+    },
+    {
+      "item": "Nullifier",
+      "reason": "can be used to dispel Decrepify."
+    },
+    {
+      "item": "Revenant's Brooch",
+      "reason": "allows heroes reliant on right-clicks to have their next five attacks deal magical damage that can affect Pugna even while under the effects of Decrepify when activated, which can make Pugna weak even against heroes he naturally counters."
+    },
+    {
+      "item": "Eul's Scepter of Divinity",
+      "reason": "dispels Decrepify and can be used to dodge Nether Blast."
+    },
+    {
+      "item": "Bloodthorn",
+      "reason": "silences Pugna making it unable to do much and if hit will make it weaker by doing less spell damage. The silence duration should be more than enough to kill him as he doesn't have that much health."
+    }
+  ]
+}

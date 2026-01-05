@@ -1,0 +1,43 @@
+{
+  "hero": "batrider",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:45.282Z",
+  "counterItems": [
+    {
+      "item": "Linken's Sphere",
+      "reason": "will block Flaming Lasso, forcing Batrider to waste an item like or on the target just to use Lasso. This problem, however, can be partially solved with upgraded , but only if Batrider uses it on a hero who does not have it and if he is lucky enough to tether a hero wielding the with it."
+    },
+    {
+      "item": "Lotus Orb",
+      "reason": "will cause Batrider to also Lasso himself, preventing him from dragging the enemy away."
+    },
+    {
+      "item": "Aeon Disk",
+      "reason": "will dispel Flaming Lasso and protect the target for a few seconds giving it's owner a chance to survive."
+    },
+    {
+      "item": "Magic Stick",
+      "reason": "and will accumulate charges very quickly against a Batrider spamming Sticky Napalm in lane."
+    },
+    {
+      "item": "Phase Boots",
+      "reason": "can increase turn rate to counter Sticky Napalm."
+    },
+    {
+      "item": "Blade Mail",
+      "reason": "can reflect damage from Firefly, even if the heroes who carry them are not target for Flaming Lasso."
+    },
+    {
+      "item": "Mage Slayer",
+      "reason": "will cause Firefly, Flamebreak and Flaming Lasso to do 35% less spell damage, making Batrider deal significantly less damage to enemies."
+    },
+    {
+      "item": "Cloak",
+      "reason": ", and it's upgrades: , and will make Batrider's abilities only to tickle it's owner due to Batrider's weak damage output."
+    },
+    {
+      "item": "Black King Bar",
+      "reason": "will discourage Batrider from doing anything to enemies, and outside of , he has nothing else to counter it."
+    }
+  ]
+}

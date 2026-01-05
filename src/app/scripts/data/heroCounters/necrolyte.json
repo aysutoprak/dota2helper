@@ -1,0 +1,67 @@
+{
+  "hero": "necrolyte",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:38.224Z",
+  "counterItems": [
+    {
+      "item": "Spirit Vessel",
+      "reason": "prevents Necrophos from getting too much health from his abilities."
+    },
+    {
+      "item": "Shiva's Guard",
+      "reason": "provides an aura that reduces all heals and regen."
+    },
+    {
+      "item": "Nullifier",
+      "reason": "renders Ghost Shroud completely ineffective during its duration."
+    },
+    {
+      "item": "Revenant's Brooch",
+      "reason": "lets attackers deal magical damage, and to attack ethereal units, which can Necrophos's Ghost Shroud, his only defense ability against him and make him weak even against heroes he naturally counters."
+    },
+    {
+      "item": "Glimmer Cape",
+      "reason": "can be used to greatly reduce the damage from Reaper's Scythe. Since Necrophos tends to use Reaper's Scythe when his target is just below at half health, the extra magical resistance is usually enough to survive."
+    },
+    {
+      "item": "Eul's Scepter of Divinity",
+      "reason": "dispels the Ghost Shroud form and provides extra control while its upgrade can also be used on an ally during the stun of Reaper's Scythe to save them, also allows allies to move when casted on them."
+    },
+    {
+      "item": "Eye of Skadi",
+      "reason": "hinders Necrophos's already poor mobility and greatly reduces his regeneration."
+    },
+    {
+      "item": "Lotus Orb",
+      "reason": "reflects Reaper's Scythe back to Necrophos. Most of the time his Reaper's Scythe will not kill him back as he'd be casting it mostly at full health, but it does mean Necrophos will be stunned through spell immunity for 1.5 seconds, preventing him from possibly following up his ultimate with more of his own damage."
+    },
+    {
+      "item": "Linken's Sphere",
+      "reason": "makes it impossible to cast Reaper's Scythe on a target if there are no other abilities that can waste it."
+    },
+    {
+      "item": "Black King Bar",
+      "reason": "ignores the damage from any of Necrophos's abilities, especially Reaper's Scythe."
+    },
+    {
+      "item": "Orchid Malevolence",
+      "reason": "and prevents Necrophos from spamming Death Pulse, preventing him from healing back and/or retaliating, and Ghost Shroud to defend himself."
+    },
+    {
+      "item": "Scythe of Vyse",
+      "reason": "is a stronger counter than the above mentioned items, preventing not only his abilities from being cast, but also his items that could either heal him further, dispel the debuffs, or help him escape."
+    },
+    {
+      "item": "Silver Edge",
+      "reason": "disables Heartstopper Aura, which reduces his presence in fights. But remember that already existing stacks of Heartstopper Aura still provide bonus health and mana regeneration."
+    },
+    {
+      "item": "Dagon",
+      "reason": "can deal massive damage to Necrophos massive damage if he tries to use Ghost Shroud to defend himself, and when combined with Necrophos get mostly killed in only few seconds."
+    },
+    {
+      "item": "Diffusal Blade",
+      "reason": "can be activated to slow down Necrophos, while allowing the user's attacks to burn Necrophos's mana."
+    }
+  ]
+}

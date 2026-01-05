@@ -1,0 +1,31 @@
+{
+  "hero": "ursa",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:46.676Z",
+  "counterItems": [
+    {
+      "item": "Scythe of Vyse",
+      "reason": "hexes Ursa, and even if Ursa buys an , he cannot dispel the hex. This leaves him very vulnerable for quite a while."
+    },
+    {
+      "item": "Heaven's Halberd",
+      "reason": "applies an undispellable disarm, making Ursa useless. It also gives decent evasion against his attacks."
+    },
+    {
+      "item": "Aeon Disk",
+      "reason": "gives an enemy hero survivability against Ursa's high initial burst attack damage, allowing the use of other abilities/items to escape before the effect ends."
+    },
+    {
+      "item": "Ghost Scepter",
+      "reason": "/ makes the enemy immune to Ursa's attacks, forcing him to consider buying to dispel."
+    },
+    {
+      "item": "Silver Edge",
+      "reason": "Fury Swipes."
+    },
+    {
+      "item": "Butterfly",
+      "reason": "makes Ursa harder to land Fury Swipes, forcing him to buy ."
+    }
+  ]
+}

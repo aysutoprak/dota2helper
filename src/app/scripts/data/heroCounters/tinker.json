@@ -1,0 +1,27 @@
+{
+  "hero": "tinker",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:37.505Z",
+  "counterItems": [
+    {
+      "item": "Blade Mail",
+      "reason": "can reflect a lot of damage back to Tinker."
+    },
+    {
+      "item": "Linken's Sphere",
+      "reason": "prevents Tinker from using Laser and his targeted items."
+    },
+    {
+      "item": "Black King Bar",
+      "reason": "makes all of Tinker's spells and items useless, because they are all magical and don't penetrate spell immunity."
+    },
+    {
+      "item": "Lotus Orb",
+      "reason": "reflects all of Tinker's spells and items back onto himself."
+    },
+    {
+      "item": "Monkey King Bar",
+      "reason": "grants 80% chance to hit attacks."
+    }
+  ]
+}

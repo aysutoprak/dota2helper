@@ -1,0 +1,31 @@
+{
+  "hero": "ancient_apparition",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:46.069Z",
+  "counterItems": [
+    {
+      "item": "Cloak",
+      "reason": ", can reduce damage from all of Ancient Apparition's abilities."
+    },
+    {
+      "item": "Black King Bar",
+      "reason": "dispels Cold Feet and prevents damage from Ancient Apparition's abilities, with the exception of Ice Blast."
+    },
+    {
+      "item": "Force Staff",
+      "reason": "and it's upgrade can be used to escape Ancient Apparition's abilities."
+    },
+    {
+      "item": "Shadow Blade",
+      "reason": "and it's upgrade makes it hard to for Ancient Apparition to hit enemy heroes with Ice Blast."
+    },
+    {
+      "item": "Manta Style",
+      "reason": "and can dispel the Cold Feet debuff."
+    },
+    {
+      "item": "Lotus Orb",
+      "reason": "can dispel Cold Feet and can also reflect it back at Ancient Apparition if he impulsively uses it on a hero affected by it."
+    }
+  ]
+}

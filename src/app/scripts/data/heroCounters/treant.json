@@ -1,0 +1,31 @@
+{
+  "hero": "treant",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:49.365Z",
+  "counterItems": [
+    {
+      "item": "Gem of True Sight",
+      "reason": "reveals all trees buffed with Eyes In The Forest, as well as Treant Protector himself."
+    },
+    {
+      "item": "Tango",
+      "reason": "is readily available and can be bought in bulk to remove trees by consuming them."
+    },
+    {
+      "item": "Quelling Blade",
+      "reason": "and its upgrade, , chop down trees."
+    },
+    {
+      "item": "Force Staff",
+      "reason": "and its upgrade, , can also clear trees in a linear fashion."
+    },
+    {
+      "item": "Manta Style",
+      "reason": "Treant Protector's abilities are dispellable with any dispel, so items such as and are very effective against him."
+    },
+    {
+      "item": "Sentry Ward",
+      "reason": "prevents any invisible gank coming from Treant Protector."
+    }
+  ]
+}

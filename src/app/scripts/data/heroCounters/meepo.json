@@ -1,0 +1,35 @@
+{
+  "hero": "meepo",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:49.185Z",
+  "counterItems": [
+    {
+      "item": "Battle Fury",
+      "reason": "Any item that are capable of inflicting area-of-effect damage like , , , , , and will be able to deal serious damage to both Meepo and his clones. These items can make Meepo struggle even against heroes he naturally counters."
+    },
+    {
+      "item": "Radiance",
+      "reason": "can deal damage over time around it's owner to both Meepo and his clones, making Meepo unable to use he is so prone to buying to gain mobility while also making them miss their attacks more frequently, forcing Meepo to buy ; will not help Meepo's clones."
+    },
+    {
+      "item": "Shiva's Guard",
+      "reason": "will weaken the magic resistance of both Meepo and his clones while also damaging them, weakening their attack speed and reducing the healing received from ."
+    },
+    {
+      "item": "Black King Bar",
+      "reason": "can protect a hero from Poof and Earthbind and anything else Meepo tries to throw at it's owner."
+    },
+    {
+      "item": "Aeon Disk",
+      "reason": "can save it's owner from Meepo's initiations with , , and ."
+    },
+    {
+      "item": "Scythe of Vyse",
+      "reason": ", , and can disable a lone Meepo from escaping with Poof."
+    },
+    {
+      "item": "Manta Style",
+      "reason": ", , and can dispel Earthbind on allies or yourself. can also reflect and back at Meepo if he uses them impulsively on a hero that is protected by , as Meepo is prone to buying and to be effective."
+    }
+  ]
+}

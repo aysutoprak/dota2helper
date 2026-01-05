@@ -1,0 +1,31 @@
+{
+  "hero": "omniknight",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:43.403Z",
+  "counterItems": [
+    {
+      "item": "Orchid Malevolence",
+      "reason": "and other items that prevents the casting of abilities can make Omniknight useless. However, skilled Omniknight can easily counter this issue by purchasing , which allows him to dispel the silence."
+    },
+    {
+      "item": "Eul's Scepter of Divinity",
+      "reason": "and can dispel Guardian Angel. can later be upgraded into , which will allow it's owner to espace from Omniknight."
+    },
+    {
+      "item": "Radiance",
+      "reason": "allows it's owner to deal magical damage to multiple enemy heroes affected by Guardian Angel's protection."
+    },
+    {
+      "item": "Spirit Vessel",
+      "reason": "and can heavily reduce any healing Omniknight tries to provide to the heroes affected by them."
+    },
+    {
+      "item": "Dagon",
+      "reason": "combined with and can often kill enemy heroes before Omniknight can save them."
+    },
+    {
+      "item": "Revenant's Brooch",
+      "reason": "will allow heroes reliant on basic attacks to have their next five attacks deal magical damage, and thus, ignore Guardian Angel's protection, making Omniknight weak even against heroes he naturally counters."
+    }
+  ]
+}

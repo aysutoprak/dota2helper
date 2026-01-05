@@ -1,0 +1,23 @@
+{
+  "hero": "razor",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:32.822Z",
+  "counterItems": [
+    {
+      "item": "Town Portal Scroll",
+      "reason": "transports the user away from Razor as he has no way to interrupt the channeling."
+    },
+    {
+      "item": "Linken's Sphere",
+      "reason": "blocks Static Link and Razor has no other tools to pop it."
+    },
+    {
+      "item": "Lotus Orb",
+      "reason": "reflects Static Link, wasting its cooldown for a long time."
+    },
+    {
+      "item": "Force Staff",
+      "reason": "and are easy tools to break Static Link."
+    }
+  ]
+}

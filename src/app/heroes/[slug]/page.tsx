@@ -1,6 +1,21 @@
 'use client';
 import { useEffect, useState } from 'react';
 import { useParams } from 'next/navigation';
+import path from 'path';
+import fs from 'fs/promises';
+import Link from 'next/link';
+
+type CounterItem = {
+	item: string;
+	reason: string;
+};
+
+type CounterData = {
+	hero: string;
+	source: string;
+	updatedAt: string;
+	counterItems: CounterItem[];
+};
 
 type Hero = {
 	id: number;
@@ -35,6 +50,8 @@ export default function HeroDetails() {
 	const [hero, setHero] = useState<Hero | undefined>();
 	const [items, setItems] = useState<ItemPopularityMapped | undefined>();
 	const [loading, setLoading] = useState(false);
+
+	const [counterData, setCounterData] = useState<CounterData | null>(null);
 
 	// replace fetchPopularItems implementation
 	async function fetchPopularItems(hero_id: number) {
@@ -105,14 +122,46 @@ export default function HeroDetails() {
 		load();
 	}, [slug]);
 
+	useEffect(() => {
+		fetch(`/api/hero-counters/${params.slug}`)
+			.then((r) => r.json())
+			.then(setCounterData);
+	}, [params.slug]);
+
 	if (!hero) return <div>Hero not found</div>;
 
 	return (
-		<div className="p-6">
+		<div className="p-6 flex flex-col">
+			<Link
+				className="bg-pink-400/10 p-2 mb-4 w-fit rounded-2xl"
+				href="/heroes"
+			>
+				Back
+			</Link>
 			<h1 className="text-2xl mb-2">{hero.localized_name}</h1>
 			<p>Roles: {(hero.roles || []).join(', ')}</p>
 
+			{counterData && counterData.counterItems.length > 0 ? (
+				<div className="mt-4">
+					<h3 className="font-semibold text-xl">Counters</h3>
+					<ul className="space-y-2">
+						{counterData.counterItems.map((it, i) => (
+							<li key={i}>
+								<strong>{it.item}</strong>
+								{it.reason && (
+									<span className="text-sm text-gray-600"> — {it.reason}</span>
+								)}
+							</li>
+						))}
+					</ul>
+				</div>
+			) : (
+				<p className="mt-4">No counter data available.</p>
+			)}
+
 			{loading && <p>Loading items...</p>}
+
+			<h3 className="font-semibold text-xl mt-3">Popular Items</h3>
 
 			{!loading && items ? (
 				<div className="mt-4">

@@ -1,0 +1,35 @@
+{
+  "hero": "faceless_void",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:39.410Z",
+  "counterItems": [
+    {
+      "item": "Aeon Disk",
+      "reason": "will prevent damage taken for a while, which may keep the wielder alive during Chronosphere."
+    },
+    {
+      "item": "Orchid Malevolence",
+      "reason": "can render Faceless Void unable to use his abilities in a team fight or prevent him from escaping a chase."
+    },
+    {
+      "item": "Scythe of Vyse",
+      "reason": "prevents Faceless Void from casting any spells or items as well as attacking, a more reliable version of Orchid Malevolence."
+    },
+    {
+      "item": "Eul's Scepter of Divinity",
+      "reason": "on Faceless Void can stop him from attacking in his Chronosphere, protecting whoever he trapped inside. Same goes for preemptive cast and from a teammate."
+    },
+    {
+      "item": "Crimson Guard",
+      "reason": "can help prevent allies from getting killed in Chronosphere."
+    },
+    {
+      "item": "Ethereal Blade",
+      "reason": "can cast on allies to prevent them from getting attacked in Chronosphere."
+    },
+    {
+      "item": "Blade Mail",
+      "reason": "can kill void from getting chronosphere."
+    }
+  ]
+}

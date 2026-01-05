@@ -1,0 +1,27 @@
+{
+  "hero": "queenofpain",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:38.961Z",
+  "counterItems": [
+    {
+      "item": "Blade Mail",
+      "reason": "can reflect all her nukes, especially Sonic Wave."
+    },
+    {
+      "item": "Orchid Malevolence",
+      "reason": "silences her, preventing her from escaping or releasing her magic burst. It can later be upgraded to , which allows anyone to make short work of her."
+    },
+    {
+      "item": "Rod of Atos",
+      "reason": "prevents Queen of Pain from escaping or initiating."
+    },
+    {
+      "item": "Scythe of Vyse",
+      "reason": "and have instant disables, which is Queen of Pain's worst nightmare."
+    },
+    {
+      "item": "Lotus Orb",
+      "reason": "reflects Shadow Strike back at Queen of Pain if she impulsively uses it on a hero protected by it."
+    }
+  ]
+}

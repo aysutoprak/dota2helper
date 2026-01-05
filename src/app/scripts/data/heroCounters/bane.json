@@ -1,0 +1,27 @@
+{
+  "hero": "bane",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:30.143Z",
+  "counterItems": [
+    {
+      "item": "Linken's Sphere",
+      "reason": "blocks any of Bane's targeted abilities, which are all single-targeted."
+    },
+    {
+      "item": "Abyssal Blade",
+      "reason": "can disable the channelling of Fiend's Grip even through spell immunity."
+    },
+    {
+      "item": "Black King Bar",
+      "reason": "'s spell immunity protects the user from most of Bane's abilities. However, Bane can still use Fiend's Grip and Brain Sap on debuff immune heroes as they can fully pierce debuff immunity."
+    },
+    {
+      "item": "Lotus Orb",
+      "reason": "will reflect all of Bane's single-targeted abilities back at Bane and can disable him if he uses them on the hero protected by it as well."
+    },
+    {
+      "item": "Eternal Shroud",
+      "reason": "weakens Bane's spell damage output from all of his abilities."
+    }
+  ]
+}

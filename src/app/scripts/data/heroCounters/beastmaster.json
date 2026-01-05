@@ -1,0 +1,27 @@
+{
+  "hero": "beastmaster",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:38.789Z",
+  "counterItems": [
+    {
+      "item": "Linken's Sphere",
+      "reason": "blocks Primal Roar, making Beastmaster much less useful."
+    },
+    {
+      "item": "Aeon Disk",
+      "reason": "'s passive automatically dispels Primal Roar's stun."
+    },
+    {
+      "item": "Battle Fury",
+      "reason": "'s cleave clears out Beastmaster's summons in no time."
+    },
+    {
+      "item": "Maelstrom",
+      "reason": "and can clear Beastmaster's summons."
+    },
+    {
+      "item": "Lotus Orb",
+      "reason": "difficult reflects for Primal Roar, releases roar from the target position, stunning and damaging Beastmaster and knocking away, damaging and slowing allies that stand on the way."
+    }
+  ]
+}

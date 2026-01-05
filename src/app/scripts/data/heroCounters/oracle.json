@@ -1,0 +1,39 @@
+{
+  "hero": "oracle",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:57.166Z",
+  "counterItems": [
+    {
+      "item": "Black King Bar",
+      "reason": "A on an enemy will prevent Oracle from using his burst damage and utility on that enemy. Additionally, a Black King Bar on an ally will prevent Oracle from healing or protecting that ally with his spells, except False Promise and Fortune's End."
+    },
+    {
+      "item": "Orchid Malevolence",
+      "reason": "prevents Oracle from using any spells, including Fortune's End, which would otherwise allow him to dispel it."
+    },
+    {
+      "item": "Eul's Scepter of Divinity",
+      "reason": "Orchid's effect is mitigated with a dispelling effect like ."
+    },
+    {
+      "item": "Magic resistance",
+      "reason": "Items providing like or will drastically reduce Oracle's damage output."
+    },
+    {
+      "item": "Dispel",
+      "reason": "effects such as render Fortune's End and Fate's Edict useless on enemies."
+    },
+    {
+      "item": "Eul's Scepter of Divinity",
+      "reason": "can be used defensively to dodge Oracle's abilities, or offensively to disable and catch Oracle. It can later be upgraded to to escape from Oracle."
+    },
+    {
+      "item": "Scythe of Vyse",
+      "reason": "applies a on Oracle, making him unable to save allies even more."
+    },
+    {
+      "item": "Lotus Orb",
+      "reason": "will reflect Fortune's End, Fate's Edict and Purifying Flames back to Oracle, potentially rooting or disarming him or even make himself burst down if his health is low enough."
+    }
+  ]
+}

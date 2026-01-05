@@ -1,0 +1,39 @@
+{
+  "hero": "alchemist",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:47.193Z",
+  "counterItems": [
+    {
+      "item": "Assault Cuirass",
+      "reason": "reduces Alchemist's physical survivability and his teammates."
+    },
+    {
+      "item": "Shiva's Guard",
+      "reason": "does the same thing as Assault Cuirass but it also reduces the attack speed, reducing the effectiveness of Chemical Rage."
+    },
+    {
+      "item": "Heaven's Halberd",
+      "reason": "applies an undispellable so Alchemist cannot attack during Chemical Rage, forcing him to activate Black King Bar beforehand."
+    },
+    {
+      "item": "Scythe of Vyse",
+      "reason": "disables Alchemist, making sure he won't be able to use his Chemical Rage to heal up, and allows heroes to burst him down fast."
+    },
+    {
+      "item": "Spirit Vessel",
+      "reason": "reduces Alchemist's health regeneration."
+    },
+    {
+      "item": "Ghost Scepter",
+      "reason": ", , , , preventing him from attacking or attacking you."
+    },
+    {
+      "item": "Aeon Disk",
+      "reason": ", removes the debuff from his disables."
+    },
+    {
+      "item": "Lotus Orb",
+      "reason": "properly reflects the spell. Stun duration and damage are equal and both depend on how long Alchemist was brewing it. The active reflects targetted spells and hence can also be used to reflect Alchemist’s Unstable Concoction, stunning Alch himself."
+    }
+  ]
+}

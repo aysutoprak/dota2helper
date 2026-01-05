@@ -1,0 +1,27 @@
+{
+  "hero": "dazzle",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:41.516Z",
+  "counterItems": [
+    {
+      "item": "Orchid Malevolence",
+      "reason": "and can Dazzle, either to kill him or block his spells in critical moments. This forces Dazzle to spend his meager support farm on expensive Eul's Scepter, Lotus Orb, or Guardian Greaves."
+    },
+    {
+      "item": "Diffusal Blade",
+      "reason": "burn Dazzle's mana quickly, rendering him useless."
+    },
+    {
+      "item": "Dagon",
+      "reason": "along with other quick nukes can snipe low-health allies before Shallow Grave's long cast animation completes."
+    },
+    {
+      "item": "Eul's Scepter of Divinity",
+      "reason": "can be used to cyclone an enemy affected by Shallow Grave, wasting a large part of the duration, and giving time to zone Dazzle away so he can't help any more: Using a Cyclone Dazzle at a crucial point will prevent him from helping his allies. This can be used to kill an almost-dead enemy who is under effect of Shallow Grave, thanks to the small 50 damage inflicted on landing."
+    },
+    {
+      "item": "Ghost Scepter",
+      "reason": "is more effective against Dazzle than other intelligence heroes because Dazzle has no abilities that let him deal magical damage at all. can later be upgraded into which can let enemies burst either Dazzle or any of his allies before he gets to save them with Shallow Grave."
+    }
+  ]
+}

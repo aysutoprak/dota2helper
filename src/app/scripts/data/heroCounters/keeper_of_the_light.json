@@ -1,0 +1,27 @@
+{
+  "hero": "keeper_of_the_light",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:51.859Z",
+  "counterItems": [
+    {
+      "item": "Blade Mail",
+      "reason": "can reflect Keeper of the Light's damage back to him."
+    },
+    {
+      "item": "Eul's Scepter of Divinity",
+      "reason": "and can Blinding Light and Solar Bind."
+    },
+    {
+      "item": "Lotus Orb",
+      "reason": "also reflects Solar Bind."
+    },
+    {
+      "item": "Force Staff",
+      "reason": "can save an ally from Solar Bind and Will-O-Wisp."
+    },
+    {
+      "item": "Black King Bar",
+      "reason": "blocks all of Keeper of the Light's abilities."
+    }
+  ]
+}

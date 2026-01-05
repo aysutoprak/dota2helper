@@ -1,0 +1,23 @@
+{
+  "hero": "jakiro",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:44.872Z",
+  "counterItems": [
+    {
+      "item": "Black King Bar",
+      "reason": "negates almost all of Jakiro's spells, except upgraded , which changes it's damage type from magical into pure and allows it to go through debuff immunity."
+    },
+    {
+      "item": "Blade Mail",
+      "reason": "can reflect Jakiro's damage over time back at him, particularly if Jakiro overextends himself by using all of his abilities on the hero who wields it until Jakiro buys ."
+    },
+    {
+      "item": "Orchid Malevolence",
+      "reason": "can render Jakiro useless in a teamfight. However, smart and skilled Jakiro can buy a dispelling item such as , or to counter this issue."
+    },
+    {
+      "item": "Pipe of Insight",
+      "reason": "and greatly reduces damage from Jakiro's spells due to the extra magic resistance it provides, except upgraded , which changes it's damage type from magical into pure and allows it to go through spell immunity."
+    }
+  ]
+}

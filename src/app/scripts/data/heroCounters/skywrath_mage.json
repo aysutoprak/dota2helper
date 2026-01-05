@@ -1,0 +1,47 @@
+{
+  "hero": "skywrath_mage",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:54.207Z",
+  "counterItems": [
+    {
+      "item": "Black King Bar",
+      "reason": ", and can either mitigate or negate Skywrath Mage's damage."
+    },
+    {
+      "item": "Black King Bar",
+      "reason": "can render its owner safe from anything Skywrath Mage tries to throw at them, and besides the Arcane Bolt Pierces Spell Immunity talent, Skywrath Mage has nothing else to deal with it."
+    },
+    {
+      "item": "Blade Mail",
+      "reason": "can be used to reflect a lot of damage back to Skywrath Mage."
+    },
+    {
+      "item": "Black King Bar",
+      "reason": ", , can be used to dispel Skywrath Mage's Ancient Seal silence and Concussive Shot slow. The latter can also potentially reflect Skywrath Mage's Ancient Seal back onto himself, leaving him silenced and unable to fire off any more nukes."
+    },
+    {
+      "item": "Lotus Orb",
+      "reason": "can also valid reflects items from Skywrath Mage or properly back to Skywrath Mage."
+    },
+    {
+      "item": "Force Staff",
+      "reason": "Although will save its owner or an ally from Mystic Flare, a squishy support will still die from a couple of amplified Arcane Bolts, especially once affected by Ancient Seal. Force Staff won't disjoint Concussive Shot, so Skywrath Mage should have vision to cast his other spells."
+    },
+    {
+      "item": "Eul's Scepter of Divinity",
+      "reason": "Similarly, will protect its owner from the damage of Mystic Flare, as well as dispelling the silence of Ancient Seal and the slow of Concussive Shot, but a smart Skywrath will keep his silence for after the Cyclone."
+    },
+    {
+      "item": "Glimmer Cape",
+      "reason": "Finally, 's active ability helps to survive his combo, but if he carries a it might not be enough, since the magic resistance is countered by the spell amplification of Ancient Seal."
+    },
+    {
+      "item": "Orchid Malevolence",
+      "reason": "or its upgrade prevents Skywrath Mage from casting spells, and the latter is especially deadly for Skywrath Mage, as it amplifies physical damage he takes."
+    },
+    {
+      "item": "Infused Raindrops",
+      "reason": "blocks a portion of Skywrath Mage's arsenal of magic damage."
+    }
+  ]
+}

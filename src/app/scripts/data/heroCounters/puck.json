@@ -1,0 +1,47 @@
+{
+  "hero": "puck",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:32.457Z",
+  "counterItems": [
+    {
+      "item": "Black King Bar",
+      "reason": "blocks all damage received from Puck. And outside of Dream Coil Pierces Debuff Immunity talent, Puck has nothing else to counter it."
+    },
+    {
+      "item": "Radiance",
+      "reason": "and can deal damage over time to Puck that can constantly put his on cooldown and force him to use Illusory Orb and Phase Shift to escape."
+    },
+    {
+      "item": "Rod of Atos",
+      "reason": "will lock Puck in place and prevent him from using Illusory Orb, Waning Rift and Phase Shift and to save himself. Later it can be upgraded into that can do the same while also providing its owner a chance to have their attacks release a chain lightning that can bounce on Puck, damaging him and putting his on cooldown."
+    },
+    {
+      "item": "Orchid Malevolence",
+      "reason": "will shut down any escape attempts with Illusory Orb, Waning Rift and Phase Shift, while also rendering Puck helpless for its duration. It can later be upgraded into that can do the same while also making every attack have true strike and allow its owner's attacks to weaken Puck's spell damage. This item can make Puck weak even against heroes he naturally counters."
+    },
+    {
+      "item": "Scythe of Vyse",
+      "reason": "locks down Puck before he can slip away and will also render him unable to do anything at all."
+    },
+    {
+      "item": "Nullifier",
+      "reason": "disables Puck's and , making it much easier for its owners to lock down Puck."
+    },
+    {
+      "item": "Eternal Shroud",
+      "reason": ", and will greatly reduce Puck's 100% magical damage output."
+    },
+    {
+      "item": "Blade Mail",
+      "reason": "can be used while silenced with Waning Rift and while in range of Dream Coil, discouraging Puck from attacking an enemy hero who wields it. As a hero with high burst damage, this can be very dangerous for Puck."
+    },
+    {
+      "item": "Dagon",
+      "reason": "'s instant projectile and burst damage combined with , and 's spell amplification capabilities can kill Puck before Phase Shift."
+    },
+    {
+      "item": "Force Staff",
+      "reason": "or combined with is an easy way to break Dream Coil safely. The forced movement persists during Manta's invulnerability, allowing the hero to dash out of the coil unharmed."
+    }
+  ]
+}

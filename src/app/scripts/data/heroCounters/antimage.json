@@ -1,0 +1,43 @@
+{
+  "hero": "antimage",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:30.008Z",
+  "counterItems": [
+    {
+      "item": "Aeon Disk",
+      "reason": "is a great item for supports who wish to survive Anti-Mage's initiation with and Mana Void."
+    },
+    {
+      "item": "Black King Bar",
+      "reason": "protects its owners against Mana Break and Mana Void."
+    },
+    {
+      "item": "Linken's Sphere",
+      "reason": "blocks Mana Void, and can be used on vulnerable teammates."
+    },
+    {
+      "item": "Arcane Boots",
+      "reason": "and keep the team's mana high, reducing the damage from Mana Void."
+    },
+    {
+      "item": "Scythe of Vyse",
+      "reason": "prevents Anti-Mage from Blinking away. And hex cannot be dispelled with Manta Style at all."
+    },
+    {
+      "item": "Butterfly",
+      "reason": "gives evasion against Mana Break."
+    },
+    {
+      "item": "Orchid Malevolence",
+      "reason": "prevents Anti-Mage from Blinking away."
+    },
+    {
+      "item": "Diffusal Blade",
+      "reason": "Drain's Anti Mage mana preventing him from blinking away"
+    },
+    {
+      "item": "Silver Edge",
+      "reason": "Mana Break and Counterspell's magic resistance, making Anti-Mage weak even against heroes he naturally counters."
+    }
+  ]
+}

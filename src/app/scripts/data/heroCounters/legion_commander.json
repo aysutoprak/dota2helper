@@ -1,0 +1,47 @@
+{
+  "hero": "legion_commander",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:55.332Z",
+  "counterItems": [
+    {
+      "item": "Ghost Scepter",
+      "reason": "stops Legion Commander from attacking during Duels, but has to be used beforehand and doesn't last as long as the Duel itself."
+    },
+    {
+      "item": "Ethereal Blade",
+      "reason": "stops Legion Commander from attacking during Duels but just like Ghost Scepter, doesn't last as long as the duel."
+    },
+    {
+      "item": "Heaven's Halberd",
+      "reason": "stops Legion Commander from attacking during Duels, and gives its owner even after the active ability ends."
+    },
+    {
+      "item": "Eul's Scepter of Divinity",
+      "reason": "interrupts Duels and dispels the buffs from Press the Attack and Overwhelming Odds."
+    },
+    {
+      "item": "Linken's Sphere",
+      "reason": "prevents Legion Commander from initiating Duels. This negates her ability to gank targets by herself, forcing her to stick with her allies."
+    },
+    {
+      "item": "Solar Crest",
+      "reason": "'s buff protects both its owner and their allies from being killed in Duels. It can also be used on Legion Commander to give an allied opponent an advantage."
+    },
+    {
+      "item": "Blade Mail",
+      "reason": "can cause Legion Commander to take more damage than her target, especially if she has won many previous Duels."
+    },
+    {
+      "item": "Mekansm",
+      "reason": "makes it harder for Legion Commander to kill an allied opponent."
+    },
+    {
+      "item": "Aeon Disk",
+      "reason": "stops Legion Commander from killing opponents during Duels."
+    },
+    {
+      "item": "Satanic",
+      "reason": "provides lifesteal and its active help its carriers to survive or can even help the carriers to win Duels, if timed correctly."
+    }
+  ]
+}

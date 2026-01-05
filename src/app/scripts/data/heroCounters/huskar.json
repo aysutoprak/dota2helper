@@ -1,0 +1,43 @@
+{
+  "hero": "huskar",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:43.759Z",
+  "counterItems": [
+    {
+      "item": "Black King Bar",
+      "reason": "negates the magical damage from Burning Spears and Inner Fire unless the level 25 talent for Burning Spears is chosen."
+    },
+    {
+      "item": "Pipe of Insight",
+      "reason": "will both reduce and/or block the damage dealt by Burning Spears and Life Break, which greatly reduces Huskar's damage output."
+    },
+    {
+      "item": "Silver Edge",
+      "reason": "will Berserker's Blood, making it much easier to burst down Huskar while also reducing his damage."
+    },
+    {
+      "item": "Heaven's Halberd",
+      "reason": "stops Huskar from attacking and applying Burning Spears."
+    },
+    {
+      "item": "Linken's Sphere",
+      "reason": "blocks Life Break."
+    },
+    {
+      "item": "Spirit Vessel",
+      "reason": "disables most of Berserker's Blood health regeneration."
+    },
+    {
+      "item": "Manta Style",
+      "reason": "can dodge Life Break's damage if timed correctly. Huskar isn't great at dealing with illusions as well."
+    },
+    {
+      "item": "Shiva's Guard",
+      "reason": "applies and ."
+    },
+    {
+      "item": "Eye of Skadi",
+      "reason": "can reduce the health regeneration and lifesteal of Huskar. It can also slightly reduce the attack speed of Huskar."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "hero": "shadow_shaman",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:35.644Z",
+  "counterItems": [
+    {
+      "item": "Phase Boots",
+      "reason": "allow its owner to easily escape a ring of Mass Serpent Wards if they find themselves trapped in it."
+    },
+    {
+      "item": "Orchid Malevolence",
+      "reason": "and its upgrade will make Shadow Shaman completely useless in teamfight and a very easy target to focus and kill."
+    },
+    {
+      "item": "Force Staff",
+      "reason": "can be used to escape from Mass Serpent Ward but not from Shackles. can later be upgraded into to chase after Shadow Shaman."
+    },
+    {
+      "item": "Lotus Orb",
+      "reason": "can reflect Hex and Shackles back at Shadow Shaman."
+    },
+    {
+      "item": "Linken's Sphere",
+      "reason": "prevents Hex and Shackles, although Shadow Shaman can simply use to pop it out."
+    },
+    {
+      "item": "Dragon Lance",
+      "reason": "allows ranged heroes to safely destroy Mass Serpent Wards from a distance. can later be upgraded into to chase after Shadow Shaman."
+    },
+    {
+      "item": "Black King Bar",
+      "reason": "makes Shadow Shaman unable to do almost anything. And besides s, Shadow Shaman does not have other solutions to counter it."
+    },
+    {
+      "item": "Abyssal Blade",
+      "reason": "'s stun can interrupt Shackles even if Shadow Shaman is spell immune."
+    }
+  ]
+}

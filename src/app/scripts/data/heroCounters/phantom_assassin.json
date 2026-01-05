@@ -1,0 +1,75 @@
+{
+  "hero": "phantom_assassin",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:40.184Z",
+  "counterItems": [
+    {
+      "item": "Monkey King Bar",
+      "reason": "grants accuracy to counter ."
+    },
+    {
+      "item": "Witch Blade",
+      "reason": "and its upgrade can deal damage over time to Phantom Assassin every 9 seconds, and attacks from both items have True Strike. can also weaken Phantom Assassin's magic resistance by 20% for 3 seconds, rendering her more vulnerable to abilities that deal magical damage."
+    },
+    {
+      "item": "Revenant's Brooch",
+      "reason": "'s attacks can damage Phantom Assassin even while she has active, though it's damage output will be reduced for 's duration."
+    },
+    {
+      "item": "Maelstrom",
+      "reason": "'s, 's and 's Chain Lightning can pierce through ."
+    },
+    {
+      "item": "Blade Mail",
+      "reason": "turns Phantom Assassin's massive burst damage against her, discouraging her from attacking."
+    },
+    {
+      "item": "Bloodthorn",
+      "reason": "makes her a more vulnerable target thanks to its ability to make every attack have true strike, damage amplification, and critical strikes. In addition, the silence prevents her from initiating effectively, being unable to use her and , making her susceptible to kiting."
+    },
+    {
+      "item": "Scythe of Vyse",
+      "reason": "completely removes Phantom Assassin's chances of escape. As Hex also disables item usage, even if she purchases , if the Hex is applied before she can activate it, she may fall down very easily once further disabled and nuked down before she even gets a chance to retaliate."
+    },
+    {
+      "item": "Nullifier",
+      "reason": "can be used to dispel 's attack speed buff from Phantom Assassin, and to continuously dispel Phantom Assassin even if she is spell immune."
+    },
+    {
+      "item": "Abyssal Blade",
+      "reason": "makes Phantom Assassin a very easy target to disable if she uses on a hero who wields it. And to make thins worse, can disable Phantom Assassin even if she is spell immune."
+    },
+    {
+      "item": "Butterfly",
+      "reason": "provides evasion against Phantom Assassin's direct attacks, minimalizing chances for her to inflict damage on it's owner with . Additionally, Phantom Assassin doesn't like building because her crits are reliant on attack damage."
+    },
+    {
+      "item": "Silver Edge",
+      "reason": "'s and , severely crippling her damage and survivability while also making her weak even against heroes she naturally counters."
+    },
+    {
+      "item": "Gleipnir",
+      "reason": "can be used to root Phantom Assassin, preventing her from using while also providing a passive chance to have it's owner's attacks release a Chain Lightning that can pierce through ."
+    },
+    {
+      "item": "Ghost Scepter",
+      "reason": "prevents Phantom Assassin from attacking, making it a good protection item for casters. It can be upgraded to later, which can be used on allies or to nuke and disarm Phantom Assassin. In addition, Phantom Assassin hates to buy , which is one of the two items (other being ) that helps her deal with state or buying items that let her deal magical damage like , and ."
+    },
+    {
+      "item": "Glimmer Cape",
+      "reason": "can be used to save targets hit by Phantom Assassin's crits. However, it is not advised if your team already has invisible heroes as enemies will then most likely carry all the time."
+    },
+    {
+      "item": "Solar Crest",
+      "reason": "not only melts Phantom Assassin's armor, it also reduces her attack speed from ."
+    },
+    {
+      "item": "Heaven's Halberd",
+      "reason": "disarms Phantom Assassin, preventing her from proccing . Its evasion also provides reliable protection against her physical attacks."
+    },
+    {
+      "item": "Lotus Orb",
+      "reason": "will reflect back at Phantom Assassin, discouraging her from harassing an enemy hero protected by it."
+    }
+  ]
+}

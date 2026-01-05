@@ -1,0 +1,51 @@
+{
+  "hero": "furion",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:42.672Z",
+  "counterItems": [
+    {
+      "item": "Boots of Travel",
+      "reason": "allows heroes to teleport to defend whenever Nature's Prophet tries to split push."
+    },
+    {
+      "item": "Quelling Blade",
+      "reason": ", and its upgrade , allow heroes to cut down trees and allows them to escape from Sprout unless Nature's Prophet has an ."
+    },
+    {
+      "item": "Heaven's Halberd",
+      "reason": "because his basic attacks are his only damage besides Wrath of Nature."
+    },
+    {
+      "item": "Force Staff",
+      "reason": "and it's upgrade allows heroes to escape from Sprout, even when silenced by Nature's Prophet's common item, ."
+    },
+    {
+      "item": "Manta Style",
+      "reason": ", , , , and can be used to dispel silence from ."
+    },
+    {
+      "item": "Linken's Sphere",
+      "reason": "will block Sprout on enemy hero protected by it, and will also force him to choose between Sprout or any of the single-targeted items he goes for like and to pop it. However, 's spellblock will work only if the Sprout is casted directly on a hero affected by it."
+    },
+    {
+      "item": "Lotus Orb",
+      "reason": "will discourage Nature's Prophet from using Sprout on enemy hero affected by it, as Nature's Prophet will also end up trapped in it. However, 's spell reflection will work only if the Sprout is casted directly on a hero affected by it."
+    },
+    {
+      "item": "Ghost Scepter",
+      "reason": "will render Nature's Prophet unable to attack it's owner when used, and outside from Nature's Wrath and Curse of the Overgrowth from , he has no other ways of countering it. can later be upgraded into that can also damage, slow and disarm Nature's Prophet while also amplifying any magical damage he will take while affected by it."
+    },
+    {
+      "item": "Rod of Atos",
+      "reason": "will cancel Nature's Prophet's attempts to escape with Teleportation and . can later be upgraded into that can do the same while also allowing it's owner to clear waves of Nature's Prophet's Treants. can also reveal Nature's Prophet if it's projectile hits him while he is invisible with ."
+    },
+    {
+      "item": "Battle Fury",
+      "reason": ", , , and make it easier to clear waves of Treants."
+    },
+    {
+      "item": "Dust of Appearance",
+      "reason": "can provide vision over Nature's Prophet whenever he tries to either gank or escape with ."
+    }
+  ]
+}

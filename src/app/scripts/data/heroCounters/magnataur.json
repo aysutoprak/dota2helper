@@ -1,0 +1,31 @@
+{
+  "hero": "magnataur",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:53.631Z",
+  "counterItems": [
+    {
+      "item": "Eul's Scepter of Divinity",
+      "reason": "can cancel Skewer and prevent Reverse Polarity."
+    },
+    {
+      "item": "Orchid Malevolence",
+      "reason": "'s instant silence can prevent Reverse Polarity."
+    },
+    {
+      "item": "Force Staff",
+      "reason": "can cancel Skewer mid way."
+    },
+    {
+      "item": "Radiance",
+      "reason": "can put Magnus's Blink Dagger on cooldown."
+    },
+    {
+      "item": "Rod of Atos",
+      "reason": "prevents Magnus from using both Blink Dagger and Skewer."
+    },
+    {
+      "item": "Black King Bar",
+      "reason": "can protect it's wielder from most of the Magnus's abilities with the exception of Reverse Polarity."
+    }
+  ]
+}

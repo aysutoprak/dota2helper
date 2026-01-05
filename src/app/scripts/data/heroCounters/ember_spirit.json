@@ -1,0 +1,31 @@
+{
+  "hero": "ember_spirit",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:55.676Z",
+  "counterItems": [
+    {
+      "item": "Orchid Malevolence",
+      "reason": "and can be devastating for Ember Spirit, as silences prevent him from getting Activate Fire Remnant off. Ember Spirit is quite fragile as well, so additional damage from these items will be very helpful. It will probably force Ember Spirit to get or as well, which will limit his late game damage potential."
+    },
+    {
+      "item": "Abyssal Blade",
+      "reason": "and are both strong disables, preventing Ember Spirit from easily escaping."
+    },
+    {
+      "item": "Assault Cuirass",
+      "reason": "and greatly decrease Ember Spirit's damage output from regular attacks and Sleight of Fist."
+    },
+    {
+      "item": "Butterfly",
+      "reason": "and allow enemy heroes to survive longer against Ember Spirit because of the evasion bonus and the disarm in Heaven's Halberd's case."
+    },
+    {
+      "item": "Satanic",
+      "reason": ", , and are all items that will allow enemies to survive Ember Spirit's late game AoE damage from Sleight of Fist. Additionally, will allow enemies to repeatedly breach Ember Spirit's highground without committing any resources."
+    },
+    {
+      "item": "Eul's Scepter of Divinity",
+      "reason": "can be tactically used to lock Ember down, dispelling his Flame Guard, and being followed by another disable."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "hero": "venomancer",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:39.157Z",
+  "counterItems": [
+    {
+      "item": "Town Portal Scroll",
+      "reason": "counters Venomancer as he has no disables nor nukes to stop the teleport in time."
+    },
+    {
+      "item": "Pipe of Insight",
+      "reason": "and will heavily mitigate the effectiveness of your spells."
+    },
+    {
+      "item": "Black King Bar",
+      "reason": "will nullify Venomancer's spell damage for its duration."
+    },
+    {
+      "item": "Blade Mail",
+      "reason": "will temporarily reflect Venomancer's massive damage back to him."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "hero": "pudge",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:32.636Z",
+  "counterItems": [
+    {
+      "item": "Lotus Orb",
+      "reason": "and will block Dismember."
+    },
+    {
+      "item": "Force Staff",
+      "reason": "can be used to escape Pudge's Meat Hook, or escape from Pudge's Rot slow."
+    },
+    {
+      "item": "Manta Style",
+      "reason": "makes Meat Hook much harder to land because of the illusions and invulnerability duration."
+    },
+    {
+      "item": "Diffusal Blade",
+      "reason": "will deplete Pudge's low mana pool."
+    },
+    {
+      "item": "Glimmer Cape",
+      "reason": "and / makes Meat Hook difficult to land because of their invisibility duration."
+    },
+    {
+      "item": "Eul's Scepter of Divinity",
+      "reason": "can be used to cancel Pudge's Dismember, allowing your ally to walk away. It can also be used to dodge hooks by using it on yourself."
+    },
+    {
+      "item": "Blink Dagger",
+      "reason": "is not the best choice, but can be useful to quickly dodge a hook."
+    }
+  ]
+}

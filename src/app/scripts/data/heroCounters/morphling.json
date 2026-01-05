@@ -1,0 +1,39 @@
+{
+  "hero": "morphling",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:31.678Z",
+  "counterItems": [
+    {
+      "item": "Monkey King Bar",
+      "reason": "- As Morphling rarely builds any sort of magic resistance aside from , which Monkey King Bar pierces, the high magic damage from its Pierce passive is more effective than most physical damage items."
+    },
+    {
+      "item": "Orchid Malevolence",
+      "reason": "and - Both items can silence Morphling, preventing him from using his abilities to survive and/or escape. The latter also amplifies physical damage Morphling takes, and provides True Strike if Morphling has . However, Morphling can easily counter this issue with , a common item on Morphling."
+    },
+    {
+      "item": "Heaven's Halberd",
+      "reason": "places an undispellable disarm on Morphling, forcing him to resort to his nukes to deal damage."
+    },
+    {
+      "item": "Spirit Vessel",
+      "reason": "Greatly reduces morphling health gain by continuous damage and reduces it further by 60% via other sources (hp regen, lifesteal etc)."
+    },
+    {
+      "item": "Scythe of Vyse",
+      "reason": "fully disables Morphling and allows the enemy team to burst him down. And hex cannot be dispelled with ."
+    },
+    {
+      "item": "Revenant's Brooch",
+      "reason": "allows heroes reliant on right-clicks to have their next five attacks deal magical damage that can bypass Morphling's high armor from when activated, which can make Morphling weak even against heroes he naturally counters."
+    },
+    {
+      "item": "Blink Dagger",
+      "reason": "allows heroes with stun abilities to close gaps and disable Morphling before he can shift into strength: , , , , , , ."
+    },
+    {
+      "item": "Lotus Orb",
+      "reason": "can reflect both and back at Morphling if he uses them impulsively on a hero protected by it."
+    }
+  ]
+}

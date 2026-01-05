@@ -1,0 +1,27 @@
+{
+  "hero": "death_prophet",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:39.813Z",
+  "counterItems": [
+    {
+      "item": "Blade Mail",
+      "reason": "can reflect Exorcism's damage when active. Since Exorcism will continue to do damage as long as it is active or until Death Prophet is dead there is no way for her to stop someone from using 's active to harm her using Exorcism."
+    },
+    {
+      "item": "Orchid Malevolence",
+      "reason": "and can temporarily stop Death Prophet from casting spells, which renders Death Prophet useless during fights unless Death Prophet buys a dispelling item."
+    },
+    {
+      "item": "Diffusal Blade",
+      "reason": "can slow her down and drain her mana while attacking."
+    },
+    {
+      "item": "Eul's Scepter of Divinity",
+      "reason": ", , , can easily dispel Death Prophet's silence."
+    },
+    {
+      "item": "Ethereal Blade",
+      "reason": "can be used to disarm Death Prophet and make her more vulnerable to magical damage, it also can be used to protect it's owner from Exorcism. However, Death Prophet can counter this with Crypt Swarm and Spirit Siphon, which deal magical damage."
+    }
+  ]
+}

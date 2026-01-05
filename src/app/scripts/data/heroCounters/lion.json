@@ -1,0 +1,27 @@
+{
+  "hero": "lion",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:35.355Z",
+  "counterItems": [
+    {
+      "item": "Black King Bar",
+      "reason": "makes all of 's abilities ineffective against a particular target."
+    },
+    {
+      "item": "Orchid Malevolence",
+      "reason": "and 's silence can disable Lion and thus prevent him from using his critical abilities."
+    },
+    {
+      "item": "Lotus Orb",
+      "reason": "will reflect all of 's abilities, potentially stunning or hexing him or even making him burst himself down."
+    },
+    {
+      "item": "Eul's Scepter of Divinity",
+      "reason": "can be used defensively to dodge 's abilities, or offensively to disable and catch Lion."
+    },
+    {
+      "item": "Blade Mail",
+      "reason": "can reflect Lion's very high damage burst from back at Lion if he impulsively uses it on a hero protected by it."
+    }
+  ]
+}

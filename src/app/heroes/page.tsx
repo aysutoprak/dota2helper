@@ -97,12 +97,12 @@ export default function Heroes() {
 							key={hero.id}
 							className={`cursor-pointer rounded-lg p-6 text-center font-bold shadow ${
 								hero.primary_attr === 'int'
-									? 'bg-blue-300'
+									? 'bg-blue-300/50'
 									: hero.primary_attr === 'str'
-									? 'bg-red-300'
+									? 'bg-red-300/50'
 									: hero.primary_attr === 'agi'
-									? 'bg-green-300'
-									: 'bg-orange-300'
+									? 'bg-green-300/50'
+									: 'bg-orange-300/50'
 							}`}
 						>
 							{hero.localized_name}

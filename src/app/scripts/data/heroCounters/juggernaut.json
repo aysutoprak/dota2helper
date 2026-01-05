@@ -1,0 +1,35 @@
+{
+  "hero": "juggernaut",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:31.105Z",
+  "counterItems": [
+    {
+      "item": "Aeon Disk",
+      "reason": "reduces damage taken from Omnislash."
+    },
+    {
+      "item": "Eul's Scepter of Divinity",
+      "reason": "and prevents Omnislash from hitting entirely."
+    },
+    {
+      "item": "Lotus Orb",
+      "reason": "can prevent Omnislash from damaging Juggernaut’s target."
+    },
+    {
+      "item": "Force Staff",
+      "reason": "and can break vision in rare cases and thus break Omnislash."
+    },
+    {
+      "item": "Shadow Blade",
+      "reason": ", , and can stop Omnislash if Juggernaut does not have True Sight. He can still use during Omnislash though."
+    },
+    {
+      "item": "Skull Basher",
+      "reason": "'s and 's bash pierces spell immunity, potentially preventing a Blade Fury-teleport escape."
+    },
+    {
+      "item": "Manta Style",
+      "reason": "creates illusions, which help tank Omnislash."
+    }
+  ]
+}

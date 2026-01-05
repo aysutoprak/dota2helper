@@ -1,0 +1,31 @@
+{
+  "hero": "tidehunter",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:36.200Z",
+  "counterItems": [
+    {
+      "item": "Black King Bar",
+      "reason": "prevents nearly all of Tidehunter's spells for its entire duration."
+    },
+    {
+      "item": "Silver Edge",
+      "reason": "'s break can disable Kraken Shell."
+    },
+    {
+      "item": "Diffusal Blade",
+      "reason": "burns Tidehunter's mana pool, although the slow can be dispelled by Kraken Shell."
+    },
+    {
+      "item": "Linken's Sphere",
+      "reason": "blocks Gush on impact."
+    },
+    {
+      "item": "Lotus Orb",
+      "reason": "reflects Gush back at Tidehunter if he impulsively uses it on a hero affected by it."
+    },
+    {
+      "item": "Aghanim's Scepter",
+      "reason": "It should be noted though that Gush can be upgraded with so that it is no longer affected by ."
+    }
+  ]
+}

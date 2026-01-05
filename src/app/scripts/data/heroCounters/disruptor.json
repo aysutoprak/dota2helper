@@ -1,0 +1,27 @@
+{
+  "hero": "disruptor",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:51.291Z",
+  "counterItems": [
+    {
+      "item": "Black King Bar",
+      "reason": "makes Disruptor's Kinetic Field-Static Storm combo useless until he gets an ."
+    },
+    {
+      "item": "Linken's Sphere",
+      "reason": "prevents Disruptor from using Glimpse to pull you out of position."
+    },
+    {
+      "item": "Lotus Orb",
+      "reason": "reflects Thunder Strike and Glimpse."
+    },
+    {
+      "item": "Manta Style",
+      "reason": "dispels Thunder Strike and to dodge Glimpse."
+    },
+    {
+      "item": "Hood of Defiance",
+      "reason": "upgraded to reduces damage from all of Disruptor's spells with the barrier and healing."
+    }
+  ]
+}

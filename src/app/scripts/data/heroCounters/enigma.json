@@ -1,0 +1,55 @@
+{
+  "hero": "enigma",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:37.328Z",
+  "counterItems": [
+    {
+      "item": "Radiance",
+      "reason": "'s damage per second could mitigate Enigma's ability to use in order to initiate."
+    },
+    {
+      "item": "Eul's Scepter of Divinity",
+      "reason": "can be used as a longer ranged method to cancel Black Hole provided Enigma hasn't activated his or doesn't have ready. can later be upgraded into , that can also be used to save allies that are trapped in the ."
+    },
+    {
+      "item": "Linken's Sphere",
+      "reason": "can be used to block , and Enigma has no other solutions to put it's spellblock on cooldown."
+    },
+    {
+      "item": "Lotus Orb",
+      "reason": "will reflect back at Enigma if he impulsively tries to cast it on an enemy hero affected by it."
+    },
+    {
+      "item": "Blade Mail",
+      "reason": "can be activated under or to inflict that damage back to Enigma. But remember that damage return from will be blocked by Spell Immunity."
+    },
+    {
+      "item": "Rod of Atos",
+      "reason": "can root Enigma and interrupt his channeling of , it can also prevent him from using to either escape or initiate, and force him to use while out of position if he has not used it yet. Later it can be upgraded into that can also root Enigma's Eidolons while also passively providing chance to release a chain lightning that can damage Enigma and his Eidolons."
+    },
+    {
+      "item": "Spirit Vessel",
+      "reason": "deals damage over time, which prevents Enigma from using to escape. It also reduces Enigma's health and any healing he receives, making him more vulnerable."
+    },
+    {
+      "item": "Orchid Malevolence",
+      "reason": "and it's upgrade are another long-ranged method of canceling Black Hole as it can silence Enigma and render him defenseless if he has no or . can also make it's owner's attacks weaken damage of Malefice, Midnight Pulse and Black Hole."
+    },
+    {
+      "item": "Scythe of Vyse",
+      "reason": "is yet, another long-ranged method of canceling Black Hole, and which can be used before Enigma uses Black King Bar and Black Hole to initiate a teamfight, as it prevents him from using both, abilities and items."
+    },
+    {
+      "item": "Satanic",
+      "reason": ", and can help it's owner to recover himself/herself if they survive Enigma's initiation with Black Hole."
+    },
+    {
+      "item": "Pipe of Insight",
+      "reason": "can protect multiple heroes against damage from 's magical damage. However, they will still suffer damage from that deals pure damage."
+    },
+    {
+      "item": "Abyssal Blade",
+      "reason": "'s stun and bash can disable Enigma even while he has active. However, it has extremely short range, and approaching Enigma while he is Spell Immune and channeling Black Hole is a very bad idea."
+    }
+  ]
+}

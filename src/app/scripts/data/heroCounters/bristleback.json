@@ -1,0 +1,35 @@
+{
+  "hero": "bristleback",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:53.999Z",
+  "counterItems": [
+    {
+      "item": "Magic Stick",
+      "reason": "gains many charges due to Bristleback's constant usage of Quill Spray, giving its holder an advantage in lane."
+    },
+    {
+      "item": "Silver Edge",
+      "reason": "disables Bristleback's passives, taking away both his tankiness as well as his damage output."
+    },
+    {
+      "item": "Assault Cuirass",
+      "reason": "'s armor aura reduces Quill Spray's area damage significantly."
+    },
+    {
+      "item": "Town Portal Scroll",
+      "reason": "provides an easy means of escape from Bristleback, as he has no disables."
+    },
+    {
+      "item": "Spirit Vessel",
+      "reason": "reduces health regen and wears Bristleback down with percentage-based damage."
+    },
+    {
+      "item": "Diffusal Blade",
+      "reason": "burns Bristleback's mana, which lessens his ability to spam Quill Spray."
+    },
+    {
+      "item": "Ghost Scepter",
+      "reason": "and its upgrade provide protection against Quill Spray, and Bristleback's only means of dealing damage are through Quill Spray and basic attacks. In addition, he doesn't like purchasing dispelling items like and ."
+    }
+  ]
+}

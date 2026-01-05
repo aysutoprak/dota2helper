@@ -1,0 +1,31 @@
+{
+  "hero": "crystal_maiden",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:30.398Z",
+  "counterItems": [
+    {
+      "item": "Black King Bar",
+      "reason": "makes Crystal Maiden completely helpless, and discourages her from even trying to do anything while also making it easy for enemy heroes to kill her off quickly, even in her ultimate."
+    },
+    {
+      "item": "Skull Basher",
+      "reason": "and can cancel Freezing Field even if Crystal Maiden is protected with any form of spell immunity."
+    },
+    {
+      "item": "Orchid Malevolence",
+      "reason": "and are an issue for Crystal Maiden in the same way that they are for any spell based hero: if she can't use her abilities due to a silence, her fight impact will be greatly reduced."
+    },
+    {
+      "item": "Linken's Sphere",
+      "reason": "will block Frostbite and Crystal Maiden has no other way to put it on a cooldown. However, Aghanim's Scepter upgraded Freezing Field can indirectly apply a Frostbite to any unit that has been standing in the Freezing Field for over 1.75s, which allows it to ignore Linken's Sphere's spellblock."
+    },
+    {
+      "item": "Lotus Orb",
+      "reason": "'s ability to reflect single-targeted abilities at it's caster discourages Crystal Maiden from trying to use a Frostbite on an enemy hero affected by it. However, Aghanim's Scepter upgraded Freezing Field can indirectly apply a Frostbite to any unit that has been standing in the Freezing Field for over 1.75s, which allows it to ignore Lotus Orb's spell reflecting."
+    },
+    {
+      "item": "Blade Mail",
+      "reason": "can reflect Freezing Field, doing incredible damage to Crystal Maiden when she uses her ultimate. Due to her low health pool, this can quickly spell her doom."
+    }
+  ]
+}

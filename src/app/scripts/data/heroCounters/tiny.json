@@ -1,0 +1,19 @@
+{
+  "hero": "tiny",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:34.252Z",
+  "counterItems": [
+    {
+      "item": "Black King Bar",
+      "reason": "completely cancels Tiny's burst potential if the enemy is quick enough to activate it."
+    },
+    {
+      "item": "Desolator",
+      "reason": "and reduce Tiny's already very low armor, making him very vulnerable to physical damage."
+    },
+    {
+      "item": "Shiva's Guard",
+      "reason": "reduces Tiny's already low attack Speed and its active helps to kite him in a fight."
+    }
+  ]
+}

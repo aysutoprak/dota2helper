@@ -1,0 +1,27 @@
+{
+  "hero": "pangolier",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:58.349Z",
+  "counterItems": [
+    {
+      "item": "Black King Bar",
+      "reason": "negates the damage from Shield Crash and Rolling Thunder."
+    },
+    {
+      "item": "Abyssal Blade",
+      "reason": "'s bash goes through Rolling Thunder's spell immunity."
+    },
+    {
+      "item": "Eul's Scepter of Divinity",
+      "reason": "helps heroes avoid Pangolier during Rolling Thunder, wasting part of its duration."
+    },
+    {
+      "item": "Force Staff",
+      "reason": "pushes heroes out of Rolling Thunder's path."
+    },
+    {
+      "item": "Rod of Atos",
+      "reason": "roots Pangolier from afar, disabling most of his escaping mechanism."
+    }
+  ]
+}

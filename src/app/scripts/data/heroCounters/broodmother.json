@@ -1,0 +1,35 @@
+{
+  "hero": "broodmother",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:44.340Z",
+  "counterItems": [
+    {
+      "item": "Spirit Vessel",
+      "reason": "weakens Broodmother's regeneration from Insatiable Hunger for a good amount of time."
+    },
+    {
+      "item": "Blink Dagger",
+      "reason": ", followed by a disable, can be used to catch Broodmother in the trees."
+    },
+    {
+      "item": "Boots of Travel",
+      "reason": "intercepts Broodmother's split pushing attempts."
+    },
+    {
+      "item": "Vanguard",
+      "reason": ", , and will negate a majority of the Spiderlings's damage."
+    },
+    {
+      "item": "Radiance",
+      "reason": ", , , and can wipe out many Spiderlings quickly."
+    },
+    {
+      "item": "Diffusal Blade",
+      "reason": "and can be used to stop Broodmother from getting away."
+    },
+    {
+      "item": "Lotus Orb",
+      "reason": "will reflect Silken Bola and Spawn Spiderlings back to Broodmother if she impulsively uses them on a hero protected by it."
+    }
+  ]
+}

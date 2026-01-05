@@ -1,0 +1,39 @@
+{
+  "hero": "bloodseeker",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:30.193Z",
+  "counterItems": [
+    {
+      "item": "Town Portal Scroll",
+      "reason": "will often prevent Bloodseeker's ganking attempts, as he has no disables to interrupt it. However, smart Bloodseeker can and will buy and its upgrade to counter this issue."
+    },
+    {
+      "item": "Magic Stick",
+      "reason": "gains charges as Bloodseeker is often using Bloodrage to farm in lane."
+    },
+    {
+      "item": "Blade Mail",
+      "reason": "can reflect damage from Rupture. Strength heroes with mobility skills such as or can reflect large amounts of damage when Ruptured."
+    },
+    {
+      "item": "Linken's Sphere",
+      "reason": "blocks Rupture, however, Bloodseeker can partially solve this issue with 2 Rupture Charges talent."
+    },
+    {
+      "item": "Crimson Guard",
+      "reason": "lowers Bloodseeker's damage, making it difficult for his Thirst bonus to kick in."
+    },
+    {
+      "item": "Heart of Tarrasque",
+      "reason": "'s health regeneration reduces Thirst's effectiveness."
+    },
+    {
+      "item": "Lotus Orb",
+      "reason": "will reflect Rupture back to Bloodseeker. Note that the wielder of this item will still take damage from Rupture."
+    },
+    {
+      "item": "Guardian Greaves",
+      "reason": "dispels Blood Rite's silence and keeps any heroes from giving Bloodseeker a Thirst bonus."
+    }
+  ]
+}

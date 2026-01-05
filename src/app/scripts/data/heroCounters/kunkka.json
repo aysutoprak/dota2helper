@@ -1,0 +1,23 @@
+{
+  "hero": "kunkka",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:34.991Z",
+  "counterItems": [
+    {
+      "item": "Crimson Guard",
+      "reason": "will protect against much of Kunkka's damage early on."
+    },
+    {
+      "item": "Black King Bar",
+      "reason": "negates all of Kunkka's spell damage, and negates X Marks the Spot."
+    },
+    {
+      "item": "Eul's Scepter of Divinity",
+      "reason": "negates X Marks the Spot both on allies and enemies, if timed correctly."
+    },
+    {
+      "item": "Lotus Orb",
+      "reason": "creates two marks: one for his target, another for Kunkka himself. If Kunkka casts this spell again, target will be returned back at X's positionm, but Kunkka won't. Lasts 4 seconds for both Kunkka and target."
+    }
+  ]
+}

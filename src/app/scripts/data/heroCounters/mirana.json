@@ -1,0 +1,27 @@
+{
+  "hero": "mirana",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:31.461Z",
+  "counterItems": [
+    {
+      "item": "Gem of True Sight",
+      "reason": "and reveal her and her team during Moonlight Shadow."
+    },
+    {
+      "item": "Orchid Malevolence",
+      "reason": "and it's upgrade can prevent Mirana from escaping with both, and and from fighting back with ."
+    },
+    {
+      "item": "Observer Ward",
+      "reason": "s scout her rotations, which lower a roaming Mirana's impact on the laning stage."
+    },
+    {
+      "item": "Black King Bar",
+      "reason": "prevents her whole combo from working, and or can be used to protect an ally hit by Sacred Arrow."
+    },
+    {
+      "item": "Manta Style",
+      "reason": "makes Sacred Arrow much harder to land because of illusions and the brief invulnerability."
+    }
+  ]
+}

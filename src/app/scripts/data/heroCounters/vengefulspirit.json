@@ -1,0 +1,27 @@
+{
+  "hero": "vengefulspirit",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:34.432Z",
+  "counterItems": [
+    {
+      "item": "Linken's Sphere",
+      "reason": "blocks Magic Missile or Nether Swap."
+    },
+    {
+      "item": "Diffusal Blade",
+      "reason": "burns Vengeful Spirit's low mana."
+    },
+    {
+      "item": "Lotus Orb",
+      "reason": "reflects Magic Missile or Nether Swap."
+    },
+    {
+      "item": "Assault Cuirass",
+      "reason": "provides armor for everyone within its aura radius, significantly reducing the bonus damage provided by Vengeful Spirit's Vengeance Aura as well as the armor reduction from Wave of Terror."
+    },
+    {
+      "item": "Silver Edge",
+      "reason": "Vengeance Aura."
+    }
+  ]
+}

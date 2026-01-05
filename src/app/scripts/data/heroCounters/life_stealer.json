@@ -1,0 +1,47 @@
+{
+  "hero": "life_stealer",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:42.877Z",
+  "counterItems": [
+    {
+      "item": "Force Staff",
+      "reason": "is very useful to kite Lifestealer in team-fight and to escape from him. can later be upgraded into that can do the same and which can also increase the attack range of ranged heroes."
+    },
+    {
+      "item": "Orchid Malevolence",
+      "reason": "and If placed before will make Lifestealer unable to use his abilities in a teamfight. And Lifestealer cannot dispel its effect with ."
+    },
+    {
+      "item": "Ghost Scepter",
+      "reason": "is a good protection against Lifestealer as he relies mostly on direct attacks to deal damage and has no other ways of dealing damage outside from Infest. It can be later upgraded into , which can disarm Lifestealer and make him more vulnerable to magic damage. But remember that Lifestealer can dispel its effect with ."
+    },
+    {
+      "item": "Manta Style",
+      "reason": "Lifestealer has no way of dealing with illusions and the extra damage from the illusions can damage him more than he can heal."
+    },
+    {
+      "item": "Scythe of Vyse",
+      "reason": "If placed before will make Lifestealer unable to use neither his abilities nor items in a teamfight. And like silence, Lifestealer cannot dispel its effect with ."
+    },
+    {
+      "item": "Heaven's Halberd",
+      "reason": "gives and an undispellable disarm, making Lifestealer useless if placed before Rage."
+    },
+    {
+      "item": "Solar Crest",
+      "reason": ", , and items are useful against Lifestealer's mostly-phyiscal damage."
+    },
+    {
+      "item": "Silver Edge",
+      "reason": "if applied before can apply an undispellable break that can disable Feast while also giving an escape tool from Lifestealer. And Lifestealer cannot dispel 's effect with ."
+    },
+    {
+      "item": "Linken's Sphere",
+      "reason": "can block , from and upgraded , which can force Lifestealer to either choose between one of those three abilities/items, or to purchase items that can be used to pop 's spellblock like or ."
+    },
+    {
+      "item": "Lotus Orb",
+      "reason": "if used before can reflect from and back at Lifestealer if he impulsively uses it on a hero protected by it. However, cannot reflect upgraded back at Lifestealer as upgraded is one of the few single-targeted abilities that cannot be reflected by at all."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "hero": "chaos_knight",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:49.013Z",
+  "counterItems": [
+    {
+      "item": "Shiva's Guard",
+      "reason": "provides armor and a negative attack speed aura, reducing the damage output of Chaos Knight and his illusions, and can slow and damage them with Arctic Blast."
+    },
+    {
+      "item": "Blade Mail",
+      "reason": "is a great item when timed right to destroy all the illusions and it does a great job in countering Chaos Knight's high damage output in general."
+    },
+    {
+      "item": "Butterfly",
+      "reason": "allows the wielder to evade Chaos Knight's attacks, reducing his damage output."
+    },
+    {
+      "item": "Ghost Scepter",
+      "reason": "and prevent Chaos Knight from focusing down a target by turning it ."
+    },
+    {
+      "item": "Manta Style",
+      "reason": "creates illusions that can make it difficult for Chaos Knight to initiate on the real hero."
+    },
+    {
+      "item": "Linken's Sphere",
+      "reason": "prevents Chaos Knight from using his targeted skills effectively."
+    },
+    {
+      "item": "Battle Fury",
+      "reason": "provides cleave damage, which is especially helpful to destroy Chaos Knight's illusions for melee heroes relying on attack damage."
+    },
+    {
+      "item": "Lotus Orb",
+      "reason": "can reflect Chaos Bolt and Reality Rift back to Chaos Knight if he impulsively uses it on a hero protected by it."
+    }
+  ]
+}

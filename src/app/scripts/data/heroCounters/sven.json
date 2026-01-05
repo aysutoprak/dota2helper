@@ -1,0 +1,51 @@
+{
+  "hero": "sven",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:33.732Z",
+  "counterItems": [
+    {
+      "item": "Force Staff",
+      "reason": "and are used to escape Sven, also can save allies from Storm Hammer."
+    },
+    {
+      "item": "Blink Dagger",
+      "reason": "disjoints Storm Hammer in quick hands."
+    },
+    {
+      "item": "Ghost Scepter",
+      "reason": "and protect heroes from Sven's physical damage, forcing him to build either , or ."
+    },
+    {
+      "item": "Heaven's Halberd",
+      "reason": "neuters Sven's main damage source during a teamfight."
+    },
+    {
+      "item": "Rod of Atos",
+      "reason": "roots Sven to the ground, making him an easy target."
+    },
+    {
+      "item": "Blade Mail",
+      "reason": "reflects Sven's massive damage, recommended for beefy heroes or in combination with ."
+    },
+    {
+      "item": "Scythe of Vyse",
+      "reason": "disables Sven completely unless if he is debuff immune already."
+    },
+    {
+      "item": "Linken's Sphere",
+      "reason": "negates Sven's initiations with Storm Hammer."
+    },
+    {
+      "item": "Radiance",
+      "reason": "will make Sven miss his attacks more often."
+    },
+    {
+      "item": "Abyssal Blade",
+      "reason": "disables Sven even if he is debuff immune."
+    },
+    {
+      "item": "Lotus Orb",
+      "reason": "can reflect Storm Hammer back at Sven if he impulsively uses it on a hero protected by it. Both AoE stun and damage function properly."
+    }
+  ]
+}

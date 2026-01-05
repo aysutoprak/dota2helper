@@ -1,0 +1,15 @@
+{
+  "hero": "rubick",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:50.260Z",
+  "counterItems": [
+    {
+      "item": "Black King Bar",
+      "reason": "prevents Rubick from doing anything to a hero other than stealing spells, unless he can steal a spell that can pierce spell immunity."
+    },
+    {
+      "item": "Linken's Sphere",
+      "reason": "prevents Rubick from using a Spell Steal. However, Spell Steal has a very low cooldown, so Rubick may use his failed Spell Steal or any other stolen spells to break the Spellblock."
+    }
+  ]
+}

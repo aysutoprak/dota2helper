@@ -1,0 +1,39 @@
+{
+  "hero": "windrunner",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:34.619Z",
+  "counterItems": [
+    {
+      "item": "Monkey King Bar",
+      "reason": "gives accuracy that allows it's owner's attacks to bypass Windrun's evasion."
+    },
+    {
+      "item": "Rod of Atos",
+      "reason": ", and prevents Windranger from escaping with Windrun."
+    },
+    {
+      "item": "Orchid Malevolence",
+      "reason": ", it's upgrade and can greatly reduce Windranger's performance due to her relying heavily on her skills for any tactical advantage. Bloodthorn also grants , bypassing Windrun's evasion."
+    },
+    {
+      "item": "Linken's Sphere",
+      "reason": "works against Focus Fire and Shackleshot."
+    },
+    {
+      "item": "Nullifier",
+      "reason": "is exceptionally useful against Windranger since it dispels Windrun."
+    },
+    {
+      "item": "Heaven's Halberd",
+      "reason": "can disarm Windranger, allowing its owner to save himself/herself or their allies from Focus Fire's damage."
+    },
+    {
+      "item": "Lotus Orb",
+      "reason": "can reflect Windranger's Shackleshot and Focus Fire back to her if she impulsively uses it on a hero protected by it."
+    },
+    {
+      "item": "Blade Mail",
+      "reason": "reflects Windranger's physical damage and goes through Windrun, exposing her vulnerability to physical damage."
+    }
+  ]
+}

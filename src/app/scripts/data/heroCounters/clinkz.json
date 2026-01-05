@@ -1,0 +1,39 @@
+{
+  "hero": "clinkz",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:43.232Z",
+  "counterItems": [
+    {
+      "item": "Dust of Appearance",
+      "reason": ", and s are very effective against Clinkz's invisibility, though he still has high movement speed while invisible."
+    },
+    {
+      "item": "Blade Mail",
+      "reason": "can deal huge damage to Clinkz and it has no way to heal himself in a fight or protect against this damage with . Due to his high attack speed and range, Clinkz can have 3-4 attack projectiles flying at once, which are easy to reflect with Blade Mail."
+    },
+    {
+      "item": "Orchid Malevolence",
+      "reason": "If Clinkz starts to build or as a source of reliable disable: can blocks these and allows his target to escape. or to dispel them."
+    },
+    {
+      "item": "Assault Cuirass",
+      "reason": "All of Clinkz's damage comes from his attacks. If an enemy can build high amounts of armor, such as , Clinkz becomes much less of a threat to them. Special mention goes to which also slows Clinkz's attack speed."
+    },
+    {
+      "item": "Force Staff",
+      "reason": "After emerging from invisibility, items such as and can be used to create distance between Clinkz and his target, preventing Clinkz from dealing damage."
+    },
+    {
+      "item": "Ghost Scepter",
+      "reason": "Natural counters to physical burst, including items that provide armor, or prove useful against Clinkz."
+    },
+    {
+      "item": "Eul's Scepter of Divinity",
+      "reason": "and , while useful to mitigate Clinkz's attack output, cannot entirely protect your team from his Skeleton Archer."
+    },
+    {
+      "item": "Magic Wand",
+      "reason": "and quickly gain charges from Clinkz casting Tar Bomb."
+    }
+  ]
+}

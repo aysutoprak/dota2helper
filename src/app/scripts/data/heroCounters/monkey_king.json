@@ -1,0 +1,35 @@
+{
+  "hero": "monkey_king",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:57.808Z",
+  "counterItems": [
+    {
+      "item": "Tango",
+      "reason": ", , and can destroy the tree Monkey King is standing on."
+    },
+    {
+      "item": "Force Staff",
+      "reason": "pushes Monkey King out of Wukong's Command. Pushed heroes can also destroy trees."
+    },
+    {
+      "item": "Orb of Venom",
+      "reason": "'s damage over time keeps Monkey King from using Tree Dance for the duration in the early game."
+    },
+    {
+      "item": "Dragon Scale",
+      "reason": ", , and keeps Tree Dance on cooldown."
+    },
+    {
+      "item": "Radiance",
+      "reason": "'s area burn will reveal Monkey King when he is disguised with Mischief while also putting his Tree Dance on cooldown constantly until he leaves the area, greatly cutting down his escape options. In addition, the blind proves problematic and makes it harder for him to gain and land stacks."
+    },
+    {
+      "item": "Eul's Scepter of Divinity",
+      "reason": "dispels Jingu Mastery's buff."
+    },
+    {
+      "item": "Shiva's Guard",
+      "reason": "will reveal Monkey King when he is on a tree."
+    }
+  ]
+}

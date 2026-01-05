@@ -1,0 +1,27 @@
+{
+  "hero": "ogre_magi",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:49.717Z",
+  "counterItems": [
+    {
+      "item": "Black King Bar",
+      "reason": "Magic resistance items, such as and reduce Ogre Magi's damage output."
+    },
+    {
+      "item": "Orchid Malevolence",
+      "reason": "and makes Ogre Magi completely useless."
+    },
+    {
+      "item": "Silver Edge",
+      "reason": "can Multicast."
+    },
+    {
+      "item": "Manta Style",
+      "reason": "dispels Ignite."
+    },
+    {
+      "item": "Lotus Orb",
+      "reason": "reflects Fireblast and Ignite."
+    }
+  ]
+}

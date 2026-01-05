@@ -1,0 +1,55 @@
+{
+  "hero": "phantom_lancer",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:32.285Z",
+  "counterItems": [
+    {
+      "item": "Aeon Disk",
+      "reason": "Both and will completely negate the damage of Phantom Lancer's illusions, even when Phantom Lancer has a considerable farm."
+    },
+    {
+      "item": "Battle Fury",
+      "reason": "'s cleave damage helps destroy Phantom Lancer's illusions."
+    },
+    {
+      "item": "Heaven's Halberd",
+      "reason": "prevents Phantom Lancer from proccing Juxtapose places an undispellable debuff which helps identify the real Phantom Lancer."
+    },
+    {
+      "item": "Radiance",
+      "reason": "'s burn aura helps destroy Phantom Lancer's illusions, and its blind chance provides some protection from his right clicks."
+    },
+    {
+      "item": "Silver Edge",
+      "reason": "Juxtapose and Phantom Rush and places undispellable debuff which helps identify the real Phantom Lancer."
+    },
+    {
+      "item": "Maelstrom",
+      "reason": "and 's chain lightning helps clear Phantom Lancer's illusions."
+    },
+    {
+      "item": "Orchid Malevolence",
+      "reason": "and indirectly locks down Phantom Lancer by preventing him from using Doppelganger to disjoint or dispel."
+    },
+    {
+      "item": "Shiva's Guard",
+      "reason": "helps clear out Phantom Lancer's illusions. The passive aura and active slow reduce Phantom Lancer's attack speed and regeneration."
+    },
+    {
+      "item": "Magic Wand",
+      "reason": "helps his victims get off an escape ability."
+    },
+    {
+      "item": "Nullifier",
+      "reason": "reveals the real hero as it is not dispellable and negates the safety of his many illusions, so the enemy can focus him down."
+    },
+    {
+      "item": "Gleipnir",
+      "reason": "'s AoE prevents Phantom Lancer and his illusions from using Doppelganger."
+    },
+    {
+      "item": "Lotus Orb",
+      "reason": "can reflects Spirit Lance and illusions from Spirit Lance target back to Phantom Lancer's"
+    }
+  ]
+}

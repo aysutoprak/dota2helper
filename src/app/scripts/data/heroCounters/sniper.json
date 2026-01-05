@@ -1,0 +1,39 @@
+{
+  "hero": "sniper",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:38.013Z",
+  "counterItems": [
+    {
+      "item": "Magic Wand",
+      "reason": "and will gain charges from Sniper's Shrapnel spam on lane."
+    },
+    {
+      "item": "Blade Mail",
+      "reason": "returns all the damage Sniper deals, and the duration of it is often more than enough to either kill Sniper, or leave him low on HP."
+    },
+    {
+      "item": "Blink Dagger",
+      "reason": "allows the user to close the gap with Sniper and can disjoint Assassinate; however, Sniper's long range means that he can disable Blink Dagger if he spots the enemy first."
+    },
+    {
+      "item": "Eul's Scepter of Divinity",
+      "reason": "can disjoint Assassinate if timed correctly, as you have ~2-3 seconds to react before being hit."
+    },
+    {
+      "item": "Linken's Sphere",
+      "reason": "blocks Assassinate on impact."
+    },
+    {
+      "item": "Lotus Orb",
+      "reason": "will reflect Assassinate back at Sniper, which proves especially dangerous if the lotused hero has Aghanim's Scepter, since it will stun Sniper for a lengthy time."
+    },
+    {
+      "item": "Smoke of Deceit",
+      "reason": "disables True Sight from Assassinate on target."
+    },
+    {
+      "item": "Shadow Blade",
+      "reason": "allows enemies to sneak up on Sniper and fight him up close. can later be upgraded into that can also disable and , which can make Sniper struggle even against heroes he naturally counters."
+    }
+  ]
+}

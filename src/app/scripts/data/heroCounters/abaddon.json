@@ -1,0 +1,31 @@
+{
+  "hero": "abaddon",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:54.554Z",
+  "counterItems": [
+    {
+      "item": "Orchid Malevolence",
+      "reason": "and make a supporting Abaddon useless at crucial moments."
+    },
+    {
+      "item": "Eul's Scepter of Divinity",
+      "reason": "wastes some duration of Borrowed Time."
+    },
+    {
+      "item": "Silver Edge",
+      "reason": "disables Curse of Avernus and Borrowed Time's passive component."
+    },
+    {
+      "item": "Dagon",
+      "reason": "and can kill Abaddon before he uses Borrowed Time, forcing him to cast it manually."
+    },
+    {
+      "item": "Spirit Vessel",
+      "reason": "and decreases the amount of healing from Borrowed Time."
+    },
+    {
+      "item": "Glimmer Cape",
+      "reason": "and allow you to juke him when he's attacking you to prevent his silence to proc."
+    }
+  ]
+}

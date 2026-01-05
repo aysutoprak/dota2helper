@@ -1,0 +1,23 @@
+{
+  "hero": "tusk",
+  "source": "dota2.fandom.com",
+  "updatedAt": "2026-01-05T15:40:54.043Z",
+  "counterItems": [
+    {
+      "item": "Force Staff",
+      "reason": "can push heroes over Ice Shards and incoming Snowball."
+    },
+    {
+      "item": "Lotus Orb",
+      "reason": "can reflect Snowball back at Tusk if he impulsively uses it on a hero affected by it by creating a second Snowball that will go back at Tusk."
+    },
+    {
+      "item": "Blade Mail",
+      "reason": "will return the physical critical damage of Walrus PUNCH! back at Tusk if he uses it on a hero affected by it."
+    },
+    {
+      "item": "Manta Style",
+      "reason": "if timed properly, can completely negate the stun and damage of Snowball."
+    }
+  ]
+}
