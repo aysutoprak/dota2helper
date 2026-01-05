@@ -1,6 +1,6 @@
 'use client';
 import Link from 'next/link';
-import { useEffect, useState } from 'react';
+import { useEffect, useMemo, useState } from 'react';
 
 export default function Heroes() {
 	type Hero = {
@@ -13,6 +13,7 @@ export default function Heroes() {
 	};
 
 	const [heroes, setHeroes] = useState<Hero[]>([]);
+	const [selectedRoles, setSelectedRoles] = useState<string[]>([]);
 
 	async function fetchHeroes() {
 		try {
@@ -32,17 +33,69 @@ export default function Heroes() {
 	const getSlug = (hero: Hero) =>
 		hero.name.replace(/^npc_dota_hero_/, '').toLowerCase();
 
+	const roles = useMemo(() => {
+		const s = new Set<string>();
+		heroes.forEach((h) => h.roles?.forEach((r) => s.add(r)));
+		return Array.from(s).sort();
+	}, [heroes]);
+
+	const toggleRole = (role: string) =>
+		setSelectedRoles((prev) =>
+			prev.includes(role) ? prev.filter((r) => r !== role) : [...prev, role]
+		);
+
+	const clearRoles = () => setSelectedRoles([]);
+
+	const filteredHeroes = useMemo(() => {
+		if (selectedRoles.length === 0) return heroes;
+		return heroes.filter((h) =>
+			// AND semantics: hero must include every selected role
+			selectedRoles.every((role) => (h.roles || []).includes(role))
+		);
+	}, [heroes, selectedRoles]);
+
 	return (
-		<div className="w-full max-w-full h-screen grid grid-rows-[8rem_1fr]">
-			<p className="mb-5 mx-auto text-[5rem]">Heroes Page</p>
-			<div className="grid grid-cols-[repeat(auto-fill,minmax(200px,1fr))] gap-4 p-4">
-				{heroes.map((hero) => {
+		<div className="w-full max-w-full h-screen grid grid-rows-[15rem_1fr]">
+			<div className="flex flex-col items-center gap-4 mb-4">
+				<p className="mb-5 mx-auto text-[5rem]">Heroes Page</p>
+				<div className="flex items-center gap-7 flex-wrap">
+					{roles.map((role) => {
+						const checked = selectedRoles.includes(role);
+						return (
+							<label
+								key={role}
+								className="flex items-center gap-2 cursor-pointer hover:bg-[#30285a] p-2 rounded-xl"
+							>
+								<input
+									type="checkbox"
+									checked={checked}
+									onChange={() => toggleRole(role)}
+									className="w-4 h-4 cursor-pointer"
+								/>
+								<span className="text-sm ">{role}</span>
+							</label>
+						);
+					})}
+				</div>
+				<div>
+					<button
+						onClick={clearRoles}
+						className="text-sm text-blue-600 underline cursor-pointer"
+						disabled={selectedRoles.length === 0}
+					>
+						Clear filters
+					</button>
+				</div>
+			</div>
+
+			<div className="grid grid-cols-[repeat(auto-fill,minmax(200px,1fr))] max-h-20 gap-4 p-4">
+				{filteredHeroes.map((hero) => {
 					const slug = getSlug(hero);
 					return (
 						<Link
 							href={`/heroes/${slug}`}
 							key={hero.id}
-							className={`rounded-lg p-6 text-center shadow ${
+							className={`cursor-pointer rounded-lg p-6 text-center font-bold shadow ${
 								hero.primary_attr === 'int'
 									? 'bg-blue-300'
 									: hero.primary_attr === 'str'
