@@ -76,7 +76,7 @@ export default function HeroDetails() {
 			}
 
 			const mapRecord = (
-				rec: Record<string, number> | undefined
+				rec: Record<string, number> | undefined,
 			): ItemNameCount[] =>
 				Object.entries(rec || {})
 					.map(([idStr, count]) => {
@@ -141,7 +141,7 @@ export default function HeroDetails() {
 			<h1 className="text-2xl mb-2">{hero.localized_name}</h1>
 			<p>Roles: {(hero.roles || []).join(', ')}</p>
 
-			{counterData && counterData.counterItems.length > 0 ? (
+			{counterData?.counterItems && counterData.counterItems.length > 0 ? (
 				<div className="mt-4">
 					<h3 className="font-semibold text-xl">Counters</h3>
 					<ul className="space-y-2">
