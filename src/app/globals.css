@@ -24,3 +24,9 @@ body {
   color: var(--foreground);
   font-family: monospace, Helvetica, sans-serif;
 }
+
+@layer utilities {
+  .font-optimus {
+    font-family: var(--font-optimus);
+  }
+}

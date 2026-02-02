@@ -1,6 +1,7 @@
 'use client';
 import Link from 'next/link';
 import { useEffect, useMemo, useState } from 'react';
+import rockTexture from '../../../public/rock-texture.jpg';
 
 export default function Heroes() {
 	type Hero = {
@@ -41,7 +42,7 @@ export default function Heroes() {
 
 	const toggleRole = (role: string) =>
 		setSelectedRoles((prev) =>
-			prev.includes(role) ? prev.filter((r) => r !== role) : [...prev, role]
+			prev.includes(role) ? prev.filter((r) => r !== role) : [...prev, role],
 		);
 
 	const clearRoles = () => setSelectedRoles([]);
@@ -50,14 +51,19 @@ export default function Heroes() {
 		if (selectedRoles.length === 0) return heroes;
 		return heroes.filter((h) =>
 			// AND semantics: hero must include every selected role
-			selectedRoles.every((role) => (h.roles || []).includes(role))
+			selectedRoles.every((role) => (h.roles || []).includes(role)),
 		);
 	}, [heroes, selectedRoles]);
 
 	return (
-		<div className="w-full max-w-full h-screen grid grid-rows-[15rem_1fr]">
+		<div className="w-full max-w-full h-screen grid grid-rows-[15rem_1fr] bg-linear-65 from-slate-950 to-rose-950">
 			<div className="flex flex-col items-center gap-4 mb-4">
-				<p className="mb-5 mx-auto text-[5rem]">Heroes Page</p>
+				<div
+					className="w-full text-center bg-cover bg-bottom h-[140px]"
+					style={{ backgroundImage: `url("rock-texture-v2.jpg")` }}
+				>
+					<p className="my-3 text-[5rem] font-optimus">Heroes Page</p>
+				</div>
 				<div className="flex items-center gap-7 flex-wrap">
 					{roles.map((role) => {
 						const checked = selectedRoles.includes(role);
@@ -99,10 +105,10 @@ export default function Heroes() {
 								hero.primary_attr === 'int'
 									? 'bg-blue-300/50'
 									: hero.primary_attr === 'str'
-									? 'bg-red-300/50'
-									: hero.primary_attr === 'agi'
-									? 'bg-green-300/50'
-									: 'bg-orange-300/50'
+										? 'bg-red-300/50'
+										: hero.primary_attr === 'agi'
+											? 'bg-green-300/50'
+											: 'bg-orange-300/50'
 							}`}
 						>
 							{hero.localized_name}
