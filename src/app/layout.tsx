@@ -39,7 +39,7 @@ export default function RootLayout({
 }>) {
 	return (
 		<html lang="en">
-			<body className={` ${optimus.variable} antialiased`}>{children}</body>
+			<body className={`${optimus.variable} antialiased`}>{children}</body>
 		</html>
 	);
 }

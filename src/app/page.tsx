@@ -7,7 +7,7 @@ export default function Home() {
 	const router = useRouter();
 
 	return (
-		<div className="flex min-h-screen bg-zinc-50 font-sans dark:bg-black">
+		<div className="flex min-h-screen h-full bg-zinc-50 font-sans dark:bg-black">
 			<main
 				onClick={() => router.push('./heroes')}
 				className="flex min-h-screen w-full relative bg-white dark:bg-black cursor-pointer"

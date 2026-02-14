@@ -56,7 +56,7 @@ export default function Heroes() {
 	}, [heroes, selectedRoles]);
 
 	return (
-		<div className="w-full max-w-full h-screen grid grid-rows-[15rem_1fr] bg-linear-65 from-slate-950 to-rose-950">
+		<div className="w-full max-w-full h-full grid grid-rows-[15rem_1fr] bg-linear-65 from-slate-950 to-rose-950">
 			<div className="flex flex-col items-center gap-4 mb-4">
 				<div
 					className="w-full text-center bg-cover bg-bottom h-[140px]"
@@ -70,7 +70,7 @@ export default function Heroes() {
 						return (
 							<label
 								key={role}
-								className="flex items-center gap-2 cursor-pointer hover:bg-[#30285a] p-2 rounded-xl"
+								className="flex items-center gap-2 cursor-pointer hover:bg-gray-600/50 p-2 rounded-xl"
 							>
 								<input
 									type="checkbox"

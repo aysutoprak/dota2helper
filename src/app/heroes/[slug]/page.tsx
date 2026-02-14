@@ -131,7 +131,7 @@ export default function HeroDetails() {
 	if (!hero) return <div>Hero not found</div>;
 
 	return (
-		<div className="p-6 flex flex-col">
+		<div className="p-6 flex flex-col w-full max-w-full bg-linear-65 from-slate-950 to-rose-950">
 			<Link
 				className="bg-pink-400/10 p-2 mb-4 w-fit rounded-2xl"
 				href="/heroes"
@@ -168,7 +168,7 @@ export default function HeroDetails() {
 					<div className="grid grid-cols-[1fr_1fr_1fr_1fr] gap-3">
 						<div className="">
 							<p className="bg-blue-200/25">Start</p>
-							<div className="grid max-h-20 gap-4">
+							<div className="grid gap-4">
 								{items.start_game_items.map((i) => {
 									return (
 										<p key={i.id}>
@@ -180,7 +180,7 @@ export default function HeroDetails() {
 						</div>
 						<div className="">
 							<p className="bg-blue-200/50">Early</p>
-							<div className="grid max-h-20 gap-4">
+							<div className="grid gap-4">
 								{items.early_game_items.map((i) => {
 									return (
 										<p key={i.id}>
@@ -192,7 +192,7 @@ export default function HeroDetails() {
 						</div>
 						<div className="">
 							<p className="bg-blue-200/25">Mid</p>
-							<div className="grid max-h-20 gap-4">
+							<div className="grid gap-4">
 								{items.mid_game_items.map((i) => {
 									return (
 										<p key={i.id}>
@@ -204,7 +204,7 @@ export default function HeroDetails() {
 						</div>
 						<div className="">
 							<p className="bg-blue-200/50">Late</p>
-							<div className="grid max-h-20 gap-4">
+							<div className="grid gap-4">
 								{items.late_game_items.map((i) => {
 									return (
 										<p key={i.id}>
